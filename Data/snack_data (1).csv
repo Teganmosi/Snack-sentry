@@ -1,0 +1,1801 @@
+mood,time_of_day,hunger_level,sentiment,snack,snack_group,snack_type,snack_texture
+sad,morning,0.14674783189293103,-0.1,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.6929409166199482,0.2,coconut candy,nigerian_sweet,sweet,chewy
+hungry,midnight,1.0,0.3,akara,nigerian_fried,savory,soft
+tired,afternoon,0.4198051453057903,-0.14,crackers,savory_snacks,savory,crisp
+happy,midnight,0.7790044150731674,0.2,puff puff,nigerian_fried,sweet,soft
+sad,midnight,0.473931655089634,-0.91,dodo ikire,nigerian_sweet,sweet,soft
+happy,midnight,0.7537614045478822,0.2,chin chin,nigerian_fried,sweet,crisp
+stressed,midnight,0.35212199499168106,-0.76,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,midnight,0.14578887023044987,0.51,dodo ikire,nigerian_sweet,sweet,soft
+tired,morning,0.7756677022116469,-0.1,cheese,healthy_light,light,soft
+tired,midnight,0.2612326150446683,-0.1,cheese,healthy_light,light,soft
+content,morning,0.21707922541911673,0.66,yogurt,healthy_light,light,soft
+excited,morning,0.23701880456326593,0.2,puff puff,nigerian_fried,sweet,soft
+sad,midnight,0.00441769369888192,-0.1,cookies,nigerian_sweet,sweet,crisp
+content,morning,0.7410407028106792,0.3,cheese,healthy_light,light,soft
+sad,morning,0.050846680228818913,-0.38,cookies,nigerian_sweet,sweet,crisp
+tired,evening,0.4489947406781609,-0.23,cheese,healthy_light,light,soft
+anxious,evening,0.6167737439636488,-0.1,pretzels,savory_snacks,savory,crisp
+happy,morning,0.16137536186831697,0.79,puff puff,nigerian_fried,sweet,soft
+anxious,morning,0.19943378331909997,-0.18,popcorn,savory_snacks,savory,crisp
+happy,evening,0.5558279464317637,0.76,chin chin,nigerian_fried,sweet,crisp
+happy,midnight,0.6429376615192917,0.2,pretzels,savory_snacks,savory,crisp
+content,midnight,0.2850382704615799,0.81,candy,nigerian_sweet,sweet,chewy
+happy,morning,0.6885844666050748,0.2,puff puff,nigerian_fried,sweet,soft
+stressed,evening,0.21552986703881719,-0.51,dodo ikire,nigerian_sweet,sweet,soft
+tired,midnight,0.2909036819034352,-0.1,yogurt,healthy_light,light,soft
+excited,morning,0.11846954396271991,1.0,akara,nigerian_fried,savory,soft
+sad,evening,0.22291717138928915,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+excited,midnight,0.44231447125706236,0.2,puff puff,nigerian_fried,sweet,soft
+stressed,afternoon,0.2942265061754026,-0.1,candy,nigerian_sweet,sweet,chewy
+happy,morning,0.12057403517234358,0.2,roasted groundnuts,nigerian_savory,savory,crisp
+bored,midnight,0.013270263142284923,0.02,crackers,savory_snacks,savory,crisp
+stressed,morning,0.3180576168700179,-0.1,crackers,savory_snacks,savory,crisp
+anxious,afternoon,0.7397548946228503,-0.1,crackers,savory_snacks,savory,crisp
+content,morning,0.41330871301681144,0.2,cheese,healthy_light,light,soft
+tired,midnight,0.5064811658186144,-0.32,granola bar,healthy_light,light,crisp
+nostalgic,midnight,0.32360650169775207,0.78,ice cream,nigerian_sweet,sweet,soft
+content,midnight,0.485143247727672,0.2,boli,nigerian_savory,savory,soft
+happy,midnight,0.24429108827551477,0.2,akara,nigerian_fried,savory,soft
+stressed,midnight,0.18979926999744007,-0.35,candy,nigerian_sweet,sweet,chewy
+content,morning,0.24644863348191137,0.2,granola bar,healthy_light,light,crisp
+bored,afternoon,0.7784084438019565,-0.21,crackers,savory_snacks,savory,crisp
+content,afternoon,0.5160826896244519,0.34,yogurt,healthy_light,light,soft
+excited,midnight,0.019452773145163072,0.29,akara,nigerian_fried,savory,soft
+hungry,morning,1.0,0.3,roasted groundnuts,nigerian_savory,savory,crisp
+bored,afternoon,0.7733238552349357,0.3,popcorn,savory_snacks,savory,crisp
+sad,evening,0.21477988551212546,-0.1,chocolate,nigerian_sweet,sweet,soft
+content,evening,0.456048936071492,0.2,cheese,healthy_light,light,soft
+happy,evening,0.236232470735151,0.2,coconut candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.2348734754115947,-0.1,kokoro,savory_snacks,savory,crisp
+nostalgic,afternoon,0.0041478902191894205,0.26,chin chin,nigerian_fried,sweet,crisp
+sad,afternoon,0.712004273454053,-0.32,coconut candy,nigerian_sweet,sweet,chewy
+tired,afternoon,0.2625221339797856,-0.69,cheese,healthy_light,light,soft
+nostalgic,morning,0.029878550999371534,0.65,coconut candy,nigerian_sweet,sweet,chewy
+excited,morning,0.2172343326557935,0.93,akara,nigerian_fried,savory,soft
+stressed,afternoon,0.43250809728808526,-0.1,ice cream,nigerian_sweet,sweet,soft
+excited,afternoon,0.03285401341430063,0.2,akara,nigerian_fried,savory,soft
+bored,afternoon,0.7701187317423401,0.3,popcorn,savory_snacks,savory,crisp
+stressed,morning,0.35388178378488355,-0.52,kuli kuli,nigerian_savory,spicy,crisp
+nostalgic,morning,0.7638922245305553,0.48,candy,nigerian_sweet,sweet,chewy
+sad,midnight,0.45282976839526107,-0.68,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.03258304185517611,0.71,chocolate,nigerian_sweet,sweet,soft
+happy,midnight,0.6455303816406236,0.2,puff puff,nigerian_fried,sweet,soft
+happy,afternoon,0.5080749206941151,0.2,puff puff,nigerian_fried,sweet,soft
+excited,morning,0.43150195872005004,0.37,akara,nigerian_fried,savory,soft
+nostalgic,midnight,0.46862046501877064,0.88,chocolate,nigerian_sweet,sweet,soft
+tired,morning,0.6489633413888024,-0.1,cheese,healthy_light,light,soft
+anxious,evening,0.15663290783143716,-0.86,suya,nigerian_savory,spicy,chewy
+happy,evening,0.2692433719109812,0.31,akara,nigerian_fried,savory,soft
+bored,evening,0.22548381981871995,-0.3,crackers,savory_snacks,savory,crisp
+nostalgic,midnight,0.33435682537246303,0.94,chocolate,nigerian_sweet,sweet,soft
+tired,evening,0.7924041136005386,-0.17,granola bar,healthy_light,light,crisp
+bored,afternoon,0.4494933537150189,-0.3,kokoro,savory_snacks,savory,crisp
+stressed,afternoon,0.7220423253436534,-0.1,popcorn,savory_snacks,savory,crisp
+nostalgic,morning,0.042788237397895126,0.92,chocolate,nigerian_sweet,sweet,soft
+hungry,evening,1.0,0.3,boli,nigerian_savory,savory,soft
+sad,evening,0.4819527407208952,-0.1,ice cream,nigerian_sweet,sweet,soft
+content,evening,0.0729648824389523,0.2,puff puff,nigerian_fried,sweet,soft
+sad,evening,0.43673261613199116,-0.1,granola bar,healthy_light,light,crisp
+content,morning,0.0808981408982322,0.2,fruit,healthy_light,light,soft
+content,afternoon,0.1172838573536204,0.2,candy,nigerian_sweet,sweet,chewy
+nostalgic,afternoon,0.6502396538060021,0.89,granola bar,healthy_light,light,crisp
+sad,evening,0.3853335903712923,-0.24,dodo ikire,nigerian_sweet,sweet,soft
+bored,afternoon,0.3941000834326873,-0.3,chips,savory_snacks,savory,crisp
+happy,morning,0.6582322815013546,0.49,chin chin,nigerian_fried,sweet,crisp
+sad,midnight,0.2285696690254886,-0.1,ice cream,nigerian_sweet,sweet,soft
+happy,midnight,0.44480403091406767,0.2,akara,nigerian_fried,savory,soft
+nostalgic,midnight,0.44308342752105667,0.94,candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.7966651000234966,-0.1,kokoro,savory_snacks,savory,crisp
+nostalgic,afternoon,0.760329187261247,0.78,candy,nigerian_sweet,sweet,chewy
+bored,midnight,0.5174786893349791,-0.22,popcorn,savory_snacks,savory,crisp
+sad,midnight,0.7889685955836824,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+content,midnight,0.2167661140121039,0.2,roasted groundnuts,nigerian_savory,savory,crisp
+sad,morning,0.4907321567486319,-0.16,cheese,healthy_light,light,soft
+happy,evening,0.3290040932682953,0.56,akara,nigerian_fried,savory,soft
+sad,afternoon,0.3047126853048172,-0.1,cheese,healthy_light,light,soft
+excited,evening,0.10708169504050656,0.2,akara,nigerian_fried,savory,soft
+excited,morning,0.7973094696591243,0.2,roasted groundnuts,nigerian_savory,savory,crisp
+content,morning,0.1928678658637055,0.2,dodo ikire,nigerian_sweet,sweet,soft
+stressed,morning,0.5373605475246854,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+anxious,afternoon,0.3809685574312114,-0.1,kokoro,savory_snacks,savory,crisp
+hungry,afternoon,1.0,0.3,kuli kuli,nigerian_savory,spicy,crisp
+happy,evening,0.6277346111554477,0.28,ice cream,nigerian_sweet,sweet,soft
+tired,afternoon,0.2804700470452776,-0.1,veggies,healthy_light,light,crisp
+nostalgic,midnight,0.43795704551928927,0.2,yogurt,healthy_light,light,soft
+excited,morning,0.7596164989261137,0.2,chocolate,nigerian_sweet,sweet,soft
+bored,midnight,0.036689013123706364,0.24,popcorn,savory_snacks,savory,crisp
+tired,evening,0.06069066248693114,-0.74,coconut candy,nigerian_sweet,sweet,chewy
+happy,midnight,0.14405381787943883,0.39,akara,nigerian_fried,savory,soft
+excited,midnight,0.13785589696130388,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,morning,0.025443745188132107,0.1,popcorn,savory_snacks,savory,crisp
+nostalgic,morning,0.4027338166838855,0.38,akara,nigerian_fried,savory,soft
+tired,evening,0.409325610837809,-0.69,fruit,healthy_light,light,soft
+nostalgic,midnight,0.5986077523069268,0.2,chocolate,nigerian_sweet,sweet,soft
+excited,afternoon,0.6079643271500685,0.2,suya,nigerian_savory,spicy,chewy
+happy,evening,0.570679668707642,0.79,puff puff,nigerian_fried,sweet,soft
+happy,afternoon,0.28331733663450037,0.2,akara,nigerian_fried,savory,soft
+stressed,evening,0.25766333246654266,-0.58,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,midnight,0.37917595314444497,0.2,chocolate,nigerian_sweet,sweet,soft
+tired,afternoon,0.4694728944167033,-0.1,fruit,healthy_light,light,soft
+bored,afternoon,0.7197179177160099,0.22,pretzels,savory_snacks,savory,crisp
+bored,morning,0.1897814333887956,-0.3,kuli kuli,nigerian_savory,spicy,crisp
+stressed,evening,0.0703100996321151,-0.1,roasted groundnuts,nigerian_savory,savory,crisp
+happy,evening,0.32831746159172925,0.96,puff puff,nigerian_fried,sweet,soft
+hungry,midnight,1.0,-0.3,pretzels,savory_snacks,savory,crisp
+anxious,afternoon,0.7435007913020687,-0.1,popcorn,savory_snacks,savory,crisp
+content,afternoon,0.7743952532033874,0.42,kilishi,nigerian_savory,spicy,chewy
+excited,morning,0.4884960339533061,0.2,chin chin,nigerian_fried,sweet,crisp
+excited,evening,0.47510647804631906,0.2,puff puff,nigerian_fried,sweet,soft
+excited,afternoon,0.2578830759797784,0.62,akara,nigerian_fried,savory,soft
+content,evening,0.3785329608415138,0.21,fruit,healthy_light,light,soft
+nostalgic,midnight,0.7720215285332102,0.2,ice cream,nigerian_sweet,sweet,soft
+stressed,evening,0.741159538871769,-0.1,kilishi,nigerian_savory,spicy,chewy
+content,morning,0.16130185603819563,0.2,akara,nigerian_fried,savory,soft
+anxious,afternoon,0.7262929043700128,-0.37,crackers,savory_snacks,savory,crisp
+excited,midnight,0.3015555435399261,0.2,akara,nigerian_fried,savory,soft
+excited,morning,0.2842899614547167,0.2,chin chin,nigerian_fried,sweet,crisp
+stressed,evening,0.09351843256669126,-0.1,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.7029032922987506,0.2,candy,nigerian_sweet,sweet,chewy
+hungry,morning,1.0,-0.3,kilishi,nigerian_savory,spicy,chewy
+happy,afternoon,0.5712512657788914,0.2,coconut candy,nigerian_sweet,sweet,chewy
+excited,evening,0.6771618333876146,0.2,akara,nigerian_fried,savory,soft
+happy,evening,0.3271641416683946,0.54,puff puff,nigerian_fried,sweet,soft
+tired,afternoon,0.20143924712556222,-0.31,ice cream,nigerian_sweet,sweet,soft
+tired,midnight,0.33887748993638633,-0.42,cheese,healthy_light,light,soft
+happy,afternoon,0.4891633883477183,0.2,ice cream,nigerian_sweet,sweet,soft
+tired,midnight,0.6320677096992694,-0.95,granola bar,healthy_light,light,crisp
+sad,morning,0.3393045370419088,-0.1,cheese,healthy_light,light,soft
+excited,afternoon,0.18872482767606497,0.2,akara,nigerian_fried,savory,soft
+bored,afternoon,0.4150704457008577,0.18,chips,savory_snacks,savory,crisp
+bored,midnight,0.6302319109715939,0.21,plantain chips,nigerian_savory,savory,crisp
+nostalgic,afternoon,0.27707679549276903,0.2,chocolate,nigerian_sweet,sweet,soft
+stressed,midnight,0.7301995703033031,-0.5,coconut candy,nigerian_sweet,sweet,chewy
+happy,morning,0.2899151192933065,0.2,chin chin,nigerian_fried,sweet,crisp
+anxious,evening,0.7804330525462051,-0.1,kokoro,savory_snacks,savory,crisp
+excited,midnight,0.4017560082649941,0.2,akara,nigerian_fried,savory,soft
+stressed,evening,0.27950959923946644,-0.1,chocolate,nigerian_sweet,sweet,soft
+content,evening,0.05256691154268189,0.55,veggies,healthy_light,light,crisp
+sad,afternoon,0.39760955905699924,-0.1,plantain chips,nigerian_savory,savory,crisp
+happy,evening,0.29864745302380236,0.2,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.6718310875652564,0.73,puff puff,nigerian_fried,sweet,soft
+bored,evening,0.5375141948789828,-0.3,kilishi,nigerian_savory,spicy,chewy
+stressed,morning,0.4453772678266929,-0.1,kokoro,savory_snacks,savory,crisp
+tired,afternoon,0.6641758916535934,-0.21,yogurt,healthy_light,light,soft
+bored,midnight,0.06954001196027947,0.27,kokoro,savory_snacks,savory,crisp
+happy,evening,0.46643324877575376,0.2,kokoro,savory_snacks,savory,crisp
+bored,afternoon,0.6600858651381278,-0.27,kilishi,nigerian_savory,spicy,chewy
+bored,midnight,0.44163774468158423,-0.13,kokoro,savory_snacks,savory,crisp
+content,midnight,0.09139034073631747,0.2,veggies,healthy_light,light,crisp
+stressed,afternoon,0.017975446656093918,-0.46,candy,nigerian_sweet,sweet,chewy
+bored,afternoon,0.5160433342154636,-0.16,roasted groundnuts,nigerian_savory,savory,crisp
+anxious,morning,0.014712541237973387,-0.1,boli,nigerian_savory,savory,soft
+bored,morning,0.324198470422151,-0.01,chips,savory_snacks,savory,crisp
+happy,evening,0.7200149134784841,0.75,puff puff,nigerian_fried,sweet,soft
+anxious,evening,0.45863550254352053,-0.1,kokoro,savory_snacks,savory,crisp
+sad,afternoon,0.13302669500486353,-0.1,puff puff,nigerian_fried,sweet,soft
+stressed,morning,0.6696631925624236,-0.13,crackers,savory_snacks,savory,crisp
+tired,afternoon,0.38084032175927973,-0.1,granola bar,healthy_light,light,crisp
+stressed,midnight,0.43187422312655477,-0.68,kokoro,savory_snacks,savory,crisp
+hungry,evening,1.0,-0.3,suya,nigerian_savory,spicy,chewy
+happy,morning,0.33023484048540186,0.41,puff puff,nigerian_fried,sweet,soft
+happy,afternoon,0.6395327031751834,0.39,puff puff,nigerian_fried,sweet,soft
+sad,midnight,0.645944201453409,-0.1,cookies,nigerian_sweet,sweet,crisp
+excited,midnight,0.4335207579026865,0.75,kilishi,nigerian_savory,spicy,chewy
+anxious,afternoon,0.5097852638315895,-0.1,granola bar,healthy_light,light,crisp
+anxious,morning,0.7552474717492906,-0.92,kokoro,savory_snacks,savory,crisp
+stressed,morning,0.37856809446506673,-0.37,cookies,nigerian_sweet,sweet,crisp
+stressed,midnight,0.7768465961322942,-0.1,ice cream,nigerian_sweet,sweet,soft
+content,afternoon,0.4179476608569352,0.29,yogurt,healthy_light,light,soft
+tired,morning,0.061562561303367326,-0.1,granola bar,healthy_light,light,crisp
+happy,evening,0.6431815835207182,0.2,akara,nigerian_fried,savory,soft
+excited,morning,0.49269055054584365,0.2,akara,nigerian_fried,savory,soft
+happy,evening,0.14837832766137798,0.2,fruit,healthy_light,light,soft
+happy,morning,0.6137506311449016,0.2,puff puff,nigerian_fried,sweet,soft
+nostalgic,evening,0.3186299071805085,0.2,candy,nigerian_sweet,sweet,chewy
+anxious,morning,0.08837929050511573,-0.29,popcorn,savory_snacks,savory,crisp
+stressed,morning,0.22181251655741888,-0.1,suya,nigerian_savory,spicy,chewy
+sad,midnight,0.17460311029205133,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+sad,midnight,0.7073591825052024,-0.1,cheese,healthy_light,light,soft
+anxious,midnight,0.18533736110675472,-0.1,crackers,savory_snacks,savory,crisp
+excited,afternoon,0.037556285718250405,0.2,akara,nigerian_fried,savory,soft
+content,morning,0.0462741412507171,0.94,cheese,healthy_light,light,soft
+hungry,morning,1.0,-0.3,plantain chips,nigerian_savory,savory,crisp
+hungry,evening,1.0,0.3,suya,nigerian_savory,spicy,chewy
+excited,morning,0.715937152982272,0.72,puff puff,nigerian_fried,sweet,soft
+bored,morning,0.7109984638951818,0.3,kokoro,savory_snacks,savory,crisp
+anxious,morning,0.5881701236187622,-0.44,chips,savory_snacks,savory,crisp
+anxious,midnight,0.39670058806301667,-0.84,crackers,savory_snacks,savory,crisp
+happy,morning,0.04921362099138804,0.77,akara,nigerian_fried,savory,soft
+tired,midnight,0.5424129220472509,-0.1,kokoro,savory_snacks,savory,crisp
+content,midnight,0.19622842580426766,0.2,kuli kuli,nigerian_savory,spicy,crisp
+stressed,morning,0.5441126174082404,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,afternoon,0.3723760070159869,0.76,akara,nigerian_fried,savory,soft
+stressed,evening,0.12860791683864656,-0.1,pretzels,savory_snacks,savory,crisp
+happy,midnight,0.06727857957438772,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,midnight,0.4319883037726844,-0.1,kilishi,nigerian_savory,spicy,chewy
+excited,midnight,0.6720972021929751,0.2,akara,nigerian_fried,savory,soft
+content,midnight,0.5503085778406507,0.2,cookies,nigerian_sweet,sweet,crisp
+happy,afternoon,0.3788591107480708,0.2,akara,nigerian_fried,savory,soft
+hungry,evening,1.0,0.3,suya,nigerian_savory,spicy,chewy
+content,evening,0.05250091565921036,0.64,cheese,healthy_light,light,soft
+bored,evening,0.3567221651013987,-0.3,veggies,healthy_light,light,crisp
+excited,evening,0.4216192769694897,0.65,akara,nigerian_fried,savory,soft
+content,midnight,0.5236089714249083,0.2,fruit,healthy_light,light,soft
+sad,morning,0.7276196087582547,-0.1,granola bar,healthy_light,light,crisp
+sad,evening,0.3274672050520344,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+happy,morning,0.5719392321617981,0.2,puff puff,nigerian_fried,sweet,soft
+stressed,morning,0.6948985343644887,-0.1,ice cream,nigerian_sweet,sweet,soft
+content,evening,0.637438262291222,0.2,cheese,healthy_light,light,soft
+stressed,evening,0.3852178812100401,-0.77,cookies,nigerian_sweet,sweet,crisp
+sad,afternoon,0.18043211395498837,-0.68,dodo ikire,nigerian_sweet,sweet,soft
+tired,midnight,0.24828956713885902,-0.1,suya,nigerian_savory,spicy,chewy
+sad,afternoon,0.779759881496552,-0.1,cookies,nigerian_sweet,sweet,crisp
+hungry,morning,1.0,-0.3,suya,nigerian_savory,spicy,chewy
+stressed,morning,0.4567236014753315,-0.96,dodo ikire,nigerian_sweet,sweet,soft
+bored,midnight,0.007816677935346928,-0.3,chips,savory_snacks,savory,crisp
+sad,morning,0.6596112375174671,-0.28,ice cream,nigerian_sweet,sweet,soft
+stressed,afternoon,0.6404693592872663,-0.6,coconut candy,nigerian_sweet,sweet,chewy
+tired,evening,0.7169770421480307,-0.1,granola bar,healthy_light,light,crisp
+bored,midnight,0.6967752989968685,0.3,popcorn,savory_snacks,savory,crisp
+content,evening,0.5286560946394006,0.2,granola bar,healthy_light,light,crisp
+excited,evening,0.4211221287488906,0.46,chin chin,nigerian_fried,sweet,crisp
+stressed,morning,0.38342314286102985,-0.1,chocolate,nigerian_sweet,sweet,soft
+anxious,morning,0.6317588057139834,-0.1,pretzels,savory_snacks,savory,crisp
+anxious,afternoon,0.26585170028408717,-0.1,chips,savory_snacks,savory,crisp
+sad,morning,0.05775872718334068,-0.94,chocolate,nigerian_sweet,sweet,soft
+nostalgic,evening,0.33272589291755267,0.69,cookies,nigerian_sweet,sweet,crisp
+content,midnight,0.032087353129985986,0.73,veggies,healthy_light,light,crisp
+anxious,midnight,0.48495097084893724,-0.1,crackers,savory_snacks,savory,crisp
+hungry,afternoon,1.0,0.3,boli,nigerian_savory,savory,soft
+tired,evening,0.1886336751673679,-0.1,granola bar,healthy_light,light,crisp
+tired,afternoon,0.7771160752333117,-0.64,veggies,healthy_light,light,crisp
+stressed,midnight,0.3240166392642572,-0.1,candy,nigerian_sweet,sweet,chewy
+happy,morning,0.3128652293214086,0.94,puff puff,nigerian_fried,sweet,soft
+bored,midnight,0.4789711840800861,-0.21,popcorn,savory_snacks,savory,crisp
+nostalgic,afternoon,0.1358063240700326,0.2,cookies,nigerian_sweet,sweet,crisp
+sad,midnight,0.4703074968883096,-0.1,chocolate,nigerian_sweet,sweet,soft
+sad,evening,0.5891216120525125,-0.1,ice cream,nigerian_sweet,sweet,soft
+content,midnight,0.6913729421393352,0.2,fruit,healthy_light,light,soft
+hungry,morning,1.0,0.06,chips,savory_snacks,savory,crisp
+happy,afternoon,0.1440083499781788,0.2,puff puff,nigerian_fried,sweet,soft
+anxious,midnight,0.7893040983670776,-0.1,akara,nigerian_fried,savory,soft
+tired,morning,0.46408978375637444,-0.49,yogurt,healthy_light,light,soft
+excited,evening,0.023978871898142365,0.2,suya,nigerian_savory,spicy,chewy
+anxious,afternoon,0.15067926701248116,-0.1,kuli kuli,nigerian_savory,spicy,crisp
+hungry,evening,1.0,0.3,kokoro,savory_snacks,savory,crisp
+anxious,afternoon,0.19531783233789943,-0.1,kokoro,savory_snacks,savory,crisp
+happy,morning,0.5516214008252489,0.35,puff puff,nigerian_fried,sweet,soft
+sad,morning,0.46174818936939854,-0.3,candy,nigerian_sweet,sweet,chewy
+bored,morning,0.32552636857829653,0.3,pretzels,savory_snacks,savory,crisp
+anxious,midnight,0.5204093182333727,-0.1,veggies,healthy_light,light,crisp
+nostalgic,morning,0.6382509190869077,0.2,coconut candy,nigerian_sweet,sweet,chewy
+excited,morning,0.2627049823080649,0.26,puff puff,nigerian_fried,sweet,soft
+sad,morning,0.35895489809802456,-0.52,dodo ikire,nigerian_sweet,sweet,soft
+happy,evening,0.13475550811417572,0.29,candy,nigerian_sweet,sweet,chewy
+excited,midnight,0.4152654281089745,0.2,puff puff,nigerian_fried,sweet,soft
+sad,afternoon,0.4212990378151677,-0.51,chocolate,nigerian_sweet,sweet,soft
+excited,afternoon,0.5744984609811955,0.91,chin chin,nigerian_fried,sweet,crisp
+happy,evening,0.05702421604413113,0.91,puff puff,nigerian_fried,sweet,soft
+stressed,morning,0.28129814979170753,-0.8,dodo ikire,nigerian_sweet,sweet,soft
+bored,evening,0.7436847019375914,0.06,chips,savory_snacks,savory,crisp
+anxious,afternoon,0.21809920058682702,-0.17,kuli kuli,nigerian_savory,spicy,crisp
+anxious,afternoon,0.6398248763392174,-0.63,kokoro,savory_snacks,savory,crisp
+stressed,midnight,0.7703415001900639,-0.1,pretzels,savory_snacks,savory,crisp
+happy,afternoon,0.08984347552897534,0.2,puff puff,nigerian_fried,sweet,soft
+tired,afternoon,0.16963587192658133,-0.1,cheese,healthy_light,light,soft
+nostalgic,midnight,0.4453096463493738,0.2,cookies,nigerian_sweet,sweet,crisp
+nostalgic,evening,0.5340399194331764,0.2,chocolate,nigerian_sweet,sweet,soft
+tired,evening,0.18818846784158785,-0.1,veggies,healthy_light,light,crisp
+stressed,morning,0.5135772003546129,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+sad,morning,0.04676369128684313,-0.72,candy,nigerian_sweet,sweet,chewy
+anxious,afternoon,0.34255969194049185,-0.1,kokoro,savory_snacks,savory,crisp
+happy,evening,0.4825755281706978,0.2,granola bar,healthy_light,light,crisp
+bored,morning,0.7153526997312947,-0.3,popcorn,savory_snacks,savory,crisp
+sad,midnight,0.35392794918453563,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+tired,midnight,0.7040632700491667,-0.1,yogurt,healthy_light,light,soft
+bored,afternoon,0.04187110062920665,-0.24,kokoro,savory_snacks,savory,crisp
+sad,midnight,0.04811387408062817,-0.1,fruit,healthy_light,light,soft
+anxious,morning,0.13638235053913403,-0.18,kokoro,savory_snacks,savory,crisp
+happy,midnight,0.5319293795897745,0.59,yogurt,healthy_light,light,soft
+sad,midnight,0.016021084740659577,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+anxious,midnight,0.4988685504022078,-0.82,chips,savory_snacks,savory,crisp
+content,afternoon,0.12744321649518425,0.2,kuli kuli,nigerian_savory,spicy,crisp
+bored,morning,0.07011419741107083,0.3,popcorn,savory_snacks,savory,crisp
+sad,evening,0.7539096152817866,-0.1,cookies,nigerian_sweet,sweet,crisp
+tired,midnight,0.6811399661960766,-0.58,fruit,healthy_light,light,soft
+content,evening,0.5394430451272387,0.2,fruit,healthy_light,light,soft
+stressed,afternoon,0.06473542644100175,-0.19,cookies,nigerian_sweet,sweet,crisp
+bored,midnight,0.4584331431446795,0.3,pretzels,savory_snacks,savory,crisp
+bored,evening,0.38964953505514877,0.21,popcorn,savory_snacks,savory,crisp
+excited,morning,0.6601606139324545,0.33,puff puff,nigerian_fried,sweet,soft
+excited,evening,0.7704920892713392,0.2,chocolate,nigerian_sweet,sweet,soft
+bored,afternoon,0.7008841540784341,-0.3,chips,savory_snacks,savory,crisp
+happy,afternoon,0.5201608739185227,0.2,akara,nigerian_fried,savory,soft
+excited,afternoon,0.38768126961509175,0.51,chin chin,nigerian_fried,sweet,crisp
+sad,morning,0.11379949494975694,-0.76,coconut candy,nigerian_sweet,sweet,chewy
+anxious,midnight,0.4944413394297488,-0.1,popcorn,savory_snacks,savory,crisp
+stressed,morning,0.4991166690333108,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,afternoon,0.5232606362975986,0.2,chocolate,nigerian_sweet,sweet,soft
+stressed,morning,0.6154439149130719,-0.98,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.46571858382397785,0.36,puff puff,nigerian_fried,sweet,soft
+bored,afternoon,0.1929611660796332,0.3,kokoro,savory_snacks,savory,crisp
+excited,evening,0.2126809093234508,0.29,chin chin,nigerian_fried,sweet,crisp
+happy,afternoon,0.12003893175518741,0.2,chocolate,nigerian_sweet,sweet,soft
+sad,midnight,0.6876521853175567,-0.22,fruit,healthy_light,light,soft
+happy,midnight,0.2523255165984102,0.38,chin chin,nigerian_fried,sweet,crisp
+content,afternoon,0.20244674624062764,0.56,veggies,healthy_light,light,crisp
+sad,afternoon,0.5093357457337658,-0.1,puff puff,nigerian_fried,sweet,soft
+stressed,midnight,0.7906202168001051,-0.11,suya,nigerian_savory,spicy,chewy
+anxious,morning,0.05766746879893869,-0.86,roasted groundnuts,nigerian_savory,savory,crisp
+anxious,afternoon,0.36955754933676466,-0.1,cheese,healthy_light,light,soft
+content,evening,0.13928746826726748,0.2,granola bar,healthy_light,light,crisp
+bored,afternoon,0.06609413076741495,0.03,kokoro,savory_snacks,savory,crisp
+stressed,morning,0.30555171172231677,-0.59,candy,nigerian_sweet,sweet,chewy
+content,morning,0.7678612144607433,0.2,yogurt,healthy_light,light,soft
+happy,evening,0.7839762634870806,0.2,akara,nigerian_fried,savory,soft
+content,midnight,0.12531074957904664,0.2,boli,nigerian_savory,savory,soft
+happy,midnight,0.3456615063553568,0.2,akara,nigerian_fried,savory,soft
+stressed,morning,0.5407858204690843,-0.1,roasted groundnuts,nigerian_savory,savory,crisp
+anxious,afternoon,0.6890959970907489,-0.1,yogurt,healthy_light,light,soft
+content,morning,0.7827178230404768,0.5,fruit,healthy_light,light,soft
+happy,midnight,0.4360215351175507,0.97,fruit,healthy_light,light,soft
+stressed,morning,0.5482384128926987,-0.82,pretzels,savory_snacks,savory,crisp
+stressed,midnight,0.5862412358130005,-0.1,candy,nigerian_sweet,sweet,chewy
+bored,evening,0.12125549727013887,-0.3,kokoro,savory_snacks,savory,crisp
+sad,midnight,0.36924597953583194,-0.98,cookies,nigerian_sweet,sweet,crisp
+hungry,midnight,1.0,-0.3,crackers,savory_snacks,savory,crisp
+bored,morning,0.5864570368237398,0.23,plantain chips,nigerian_savory,savory,crisp
+content,midnight,0.4193273365809298,0.7,cheese,healthy_light,light,soft
+happy,morning,0.7664587840955042,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,midnight,0.40164017079075776,-0.3,crackers,savory_snacks,savory,crisp
+content,afternoon,0.4744354673494273,0.2,granola bar,healthy_light,light,crisp
+happy,afternoon,0.13350809428389673,0.2,puff puff,nigerian_fried,sweet,soft
+nostalgic,morning,0.5138604207241819,0.2,candy,nigerian_sweet,sweet,chewy
+tired,afternoon,0.38927812979500254,-0.1,fruit,healthy_light,light,soft
+bored,evening,0.06164662330746493,-0.3,kokoro,savory_snacks,savory,crisp
+anxious,evening,0.6601045341328922,-0.1,chips,savory_snacks,savory,crisp
+anxious,morning,0.07088034374369379,-0.56,kokoro,savory_snacks,savory,crisp
+hungry,midnight,1.0,-0.3,boli,nigerian_savory,savory,soft
+excited,evening,0.09466895273870986,0.2,kuli kuli,nigerian_savory,spicy,crisp
+tired,midnight,0.16234909405992176,-0.1,fruit,healthy_light,light,soft
+anxious,afternoon,0.6653576349406188,-0.45,popcorn,savory_snacks,savory,crisp
+nostalgic,afternoon,0.682182415900569,0.2,chocolate,nigerian_sweet,sweet,soft
+excited,morning,0.36654950939031417,0.2,chin chin,nigerian_fried,sweet,crisp
+anxious,afternoon,0.7275121536067171,-0.1,chin chin,nigerian_fried,sweet,crisp
+stressed,midnight,0.10828326582214842,-0.1,ice cream,nigerian_sweet,sweet,soft
+happy,midnight,0.035675926698369234,0.2,chin chin,nigerian_fried,sweet,crisp
+content,afternoon,0.21755978090290481,0.52,granola bar,healthy_light,light,crisp
+happy,morning,0.6824716987229205,0.2,puff puff,nigerian_fried,sweet,soft
+bored,afternoon,0.32887648208056525,-0.3,chips,savory_snacks,savory,crisp
+anxious,midnight,0.10239056682686912,-0.1,kokoro,savory_snacks,savory,crisp
+content,afternoon,0.5846567719845839,0.96,candy,nigerian_sweet,sweet,chewy
+stressed,midnight,0.2706104842658787,-0.38,kokoro,savory_snacks,savory,crisp
+stressed,morning,0.12099746298794765,-0.55,ice cream,nigerian_sweet,sweet,soft
+tired,morning,0.7844134576008849,-0.55,veggies,healthy_light,light,crisp
+content,morning,0.4348305738741169,0.2,veggies,healthy_light,light,crisp
+stressed,afternoon,0.5313503316043339,-0.57,roasted groundnuts,nigerian_savory,savory,crisp
+excited,evening,0.4363454955255244,0.2,akara,nigerian_fried,savory,soft
+excited,midnight,0.6351917730944049,0.2,akara,nigerian_fried,savory,soft
+excited,midnight,0.6054012045509081,0.2,akara,nigerian_fried,savory,soft
+nostalgic,midnight,0.20439467572448378,0.89,cookies,nigerian_sweet,sweet,crisp
+tired,afternoon,0.05216367300839364,-0.1,veggies,healthy_light,light,crisp
+excited,afternoon,0.2975461343334919,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,evening,0.1630131673021513,-0.1,cookies,nigerian_sweet,sweet,crisp
+tired,morning,0.24987928150841088,-0.1,ice cream,nigerian_sweet,sweet,soft
+excited,midnight,0.556719294535042,0.59,akara,nigerian_fried,savory,soft
+nostalgic,afternoon,0.1350833653421489,0.2,coconut candy,nigerian_sweet,sweet,chewy
+sad,midnight,0.5234340418599696,-0.7,candy,nigerian_sweet,sweet,chewy
+happy,midnight,0.09411519052746016,0.48,akara,nigerian_fried,savory,soft
+excited,morning,0.5343359990429016,0.27,akara,nigerian_fried,savory,soft
+sad,evening,0.10386115916137406,-0.1,chin chin,nigerian_fried,sweet,crisp
+content,afternoon,0.06352526771442361,0.46,roasted groundnuts,nigerian_savory,savory,crisp
+content,afternoon,0.0885987562551665,0.52,cheese,healthy_light,light,soft
+anxious,morning,0.28623861226035346,-0.1,popcorn,savory_snacks,savory,crisp
+stressed,morning,0.09035456672893885,-0.83,chocolate,nigerian_sweet,sweet,soft
+nostalgic,evening,0.36028078312433015,0.5,candy,nigerian_sweet,sweet,chewy
+sad,morning,0.6449567048030327,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+anxious,afternoon,0.2600832123453592,-0.1,kuli kuli,nigerian_savory,spicy,crisp
+nostalgic,midnight,0.7933940937342712,0.2,puff puff,nigerian_fried,sweet,soft
+nostalgic,evening,0.24424854135738505,0.2,chin chin,nigerian_fried,sweet,crisp
+anxious,afternoon,0.7228862754774361,-0.53,chips,savory_snacks,savory,crisp
+nostalgic,evening,0.7257560245646639,0.34,coconut candy,nigerian_sweet,sweet,chewy
+sad,afternoon,0.18138430633880853,-0.24,chocolate,nigerian_sweet,sweet,soft
+content,evening,0.3380387426495557,0.2,cheese,healthy_light,light,soft
+bored,midnight,0.566150661064495,0.3,crackers,savory_snacks,savory,crisp
+content,morning,0.7702482856592208,0.45,kokoro,savory_snacks,savory,crisp
+bored,evening,0.3598737663780474,-0.3,suya,nigerian_savory,spicy,chewy
+bored,morning,0.009923229021851832,-0.06,crackers,savory_snacks,savory,crisp
+bored,evening,0.5841969176721168,0.2,roasted groundnuts,nigerian_savory,savory,crisp
+nostalgic,morning,0.47457725608590745,0.78,chin chin,nigerian_fried,sweet,crisp
+stressed,morning,0.22823227068585317,-0.14,cookies,nigerian_sweet,sweet,crisp
+tired,morning,0.05091272742931388,-0.1,fruit,healthy_light,light,soft
+happy,morning,0.026116542036534886,0.74,akara,nigerian_fried,savory,soft
+happy,evening,0.34434192825679216,0.2,akara,nigerian_fried,savory,soft
+tired,afternoon,0.13185974027740963,-0.66,veggies,healthy_light,light,crisp
+content,evening,0.18994677469984503,0.2,puff puff,nigerian_fried,sweet,soft
+excited,afternoon,0.2101405140789214,0.2,akara,nigerian_fried,savory,soft
+bored,afternoon,0.056745772907018745,-0.3,pretzels,savory_snacks,savory,crisp
+happy,midnight,0.19108532832154212,0.2,puff puff,nigerian_fried,sweet,soft
+tired,afternoon,0.4886240568606146,-0.44,candy,nigerian_sweet,sweet,chewy
+happy,afternoon,0.039597482794933296,0.67,dodo ikire,nigerian_sweet,sweet,soft
+excited,morning,0.4576389146954407,0.2,akara,nigerian_fried,savory,soft
+sad,morning,0.22764984141031805,-0.1,ice cream,nigerian_sweet,sweet,soft
+tired,evening,0.394837264272095,-0.1,fruit,healthy_light,light,soft
+bored,morning,0.3118978823532353,0.3,crackers,savory_snacks,savory,crisp
+bored,morning,0.2474981742902257,0.3,cheese,healthy_light,light,soft
+happy,evening,0.0016830745407067306,0.44,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,afternoon,0.0915901104527241,0.2,chocolate,nigerian_sweet,sweet,soft
+happy,midnight,0.4396669253777149,0.8,chin chin,nigerian_fried,sweet,crisp
+anxious,afternoon,0.5348581173783312,-0.1,crackers,savory_snacks,savory,crisp
+happy,afternoon,0.11109706111721361,0.2,chin chin,nigerian_fried,sweet,crisp
+tired,morning,0.7219626458286734,-0.87,fruit,healthy_light,light,soft
+happy,afternoon,0.4259941595497173,0.2,puff puff,nigerian_fried,sweet,soft
+nostalgic,afternoon,0.4469139171603403,0.2,candy,nigerian_sweet,sweet,chewy
+content,afternoon,0.6814729894991581,0.2,boli,nigerian_savory,savory,soft
+nostalgic,afternoon,0.35713561312126574,0.6,ice cream,nigerian_sweet,sweet,soft
+nostalgic,evening,0.07909889411250833,0.78,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.5507240147937095,0.2,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.6095254561059323,0.89,puff puff,nigerian_fried,sweet,soft
+sad,evening,0.2724833332650333,-0.86,dodo ikire,nigerian_sweet,sweet,soft
+anxious,morning,0.4248682759081943,-0.1,pretzels,savory_snacks,savory,crisp
+happy,morning,0.11244237406268863,0.2,puff puff,nigerian_fried,sweet,soft
+hungry,midnight,1.0,-0.3,roasted groundnuts,nigerian_savory,savory,crisp
+sad,evening,0.01868167706254873,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,morning,0.2963175890202452,0.2,chocolate,nigerian_sweet,sweet,soft
+hungry,morning,1.0,0.3,roasted groundnuts,nigerian_savory,savory,crisp
+sad,morning,0.7765937229417985,-0.1,veggies,healthy_light,light,crisp
+excited,morning,0.609521450083896,0.67,chin chin,nigerian_fried,sweet,crisp
+bored,evening,0.1417367402174924,0.01,popcorn,savory_snacks,savory,crisp
+content,midnight,0.27782163122440606,0.2,plantain chips,nigerian_savory,savory,crisp
+tired,evening,0.16584720255004637,-0.1,yogurt,healthy_light,light,soft
+bored,midnight,0.49652838385966724,-0.3,chips,savory_snacks,savory,crisp
+excited,midnight,0.7255542470678672,0.2,puff puff,nigerian_fried,sweet,soft
+sad,evening,0.695975327718148,-0.74,coconut candy,nigerian_sweet,sweet,chewy
+content,midnight,0.37342566178495035,0.2,cheese,healthy_light,light,soft
+excited,midnight,0.3867259487785173,0.73,puff puff,nigerian_fried,sweet,soft
+bored,morning,0.4501693592178714,-0.12,kokoro,savory_snacks,savory,crisp
+sad,morning,0.6924617164996418,-0.1,cookies,nigerian_sweet,sweet,crisp
+content,midnight,0.6452714738610217,0.2,fruit,healthy_light,light,soft
+happy,morning,0.6775750833656484,0.79,akara,nigerian_fried,savory,soft
+sad,morning,0.777226433912471,-0.56,cookies,nigerian_sweet,sweet,crisp
+nostalgic,afternoon,0.5781655661585828,0.39,chin chin,nigerian_fried,sweet,crisp
+sad,afternoon,0.2667258577272884,-0.1,cookies,nigerian_sweet,sweet,crisp
+hungry,afternoon,1.0,0.3,popcorn,savory_snacks,savory,crisp
+happy,morning,0.2734259237894094,0.27,chin chin,nigerian_fried,sweet,crisp
+nostalgic,midnight,0.526832412536044,0.53,candy,nigerian_sweet,sweet,chewy
+happy,morning,0.5785195891717037,0.2,suya,nigerian_savory,spicy,chewy
+bored,midnight,0.08879847903305188,0.3,fruit,healthy_light,light,soft
+hungry,evening,1.0,0.3,suya,nigerian_savory,spicy,chewy
+content,midnight,0.5656691818133586,0.2,kuli kuli,nigerian_savory,spicy,crisp
+bored,midnight,0.6907206134856015,-0.2,chips,savory_snacks,savory,crisp
+bored,afternoon,0.25719656099830557,-0.05,crackers,savory_snacks,savory,crisp
+hungry,morning,1.0,-0.3,kilishi,nigerian_savory,spicy,chewy
+stressed,evening,0.4024671606238691,-0.1,candy,nigerian_sweet,sweet,chewy
+happy,midnight,0.4210227682705622,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,afternoon,0.41613591384860094,-0.3,popcorn,savory_snacks,savory,crisp
+excited,afternoon,0.7055937357773088,0.65,plantain chips,nigerian_savory,savory,crisp
+sad,morning,0.00010775440358825606,-0.1,chin chin,nigerian_fried,sweet,crisp
+anxious,evening,0.46661321425043634,-0.1,kokoro,savory_snacks,savory,crisp
+happy,midnight,0.08151391045281083,0.2,akara,nigerian_fried,savory,soft
+bored,midnight,0.7257598572484979,0.3,popcorn,savory_snacks,savory,crisp
+nostalgic,evening,0.07143161962045834,0.37,chocolate,nigerian_sweet,sweet,soft
+tired,midnight,0.5406781971714691,-0.72,kokoro,savory_snacks,savory,crisp
+stressed,midnight,0.6088302322006265,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+happy,evening,0.5074717917689634,1.0,puff puff,nigerian_fried,sweet,soft
+sad,midnight,0.34618330881576376,-0.1,chocolate,nigerian_sweet,sweet,soft
+sad,midnight,0.6871653483365037,-0.63,chocolate,nigerian_sweet,sweet,soft
+anxious,morning,0.5258827857361029,-0.1,popcorn,savory_snacks,savory,crisp
+anxious,morning,0.028750939937242672,-0.21,fruit,healthy_light,light,soft
+anxious,afternoon,0.5158660832178511,-0.21,popcorn,savory_snacks,savory,crisp
+nostalgic,midnight,0.03440556149355158,0.33,cookies,nigerian_sweet,sweet,crisp
+excited,evening,0.6683841805937556,0.2,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.7590767646649044,0.2,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,midnight,0.007939056902268505,0.2,veggies,healthy_light,light,crisp
+anxious,midnight,0.3639351116060697,-0.47,chips,savory_snacks,savory,crisp
+nostalgic,afternoon,0.013558131911664795,0.54,coconut candy,nigerian_sweet,sweet,chewy
+bored,midnight,0.26567949231450916,-0.3,popcorn,savory_snacks,savory,crisp
+tired,midnight,0.0010829005723745234,-0.4,cheese,healthy_light,light,soft
+content,morning,0.43757060109711055,0.66,yogurt,healthy_light,light,soft
+stressed,evening,0.2423325830665541,-0.87,dodo ikire,nigerian_sweet,sweet,soft
+excited,evening,0.047773191176711464,0.34,akara,nigerian_fried,savory,soft
+stressed,midnight,0.7930623212513765,-0.1,chips,savory_snacks,savory,crisp
+sad,evening,0.5805017602195327,-0.1,cheese,healthy_light,light,soft
+bored,evening,0.11757016767056774,0.3,popcorn,savory_snacks,savory,crisp
+anxious,evening,0.647888149888469,-0.1,crackers,savory_snacks,savory,crisp
+excited,evening,0.566177080214022,0.2,chin chin,nigerian_fried,sweet,crisp
+tired,evening,0.035651058758943324,-0.17,kokoro,savory_snacks,savory,crisp
+sad,afternoon,0.5436962661880863,-0.85,cookies,nigerian_sweet,sweet,crisp
+excited,afternoon,0.1442463483382225,0.2,akara,nigerian_fried,savory,soft
+excited,morning,0.03998322292774299,0.69,kokoro,savory_snacks,savory,crisp
+nostalgic,midnight,0.5272910115756212,0.2,chocolate,nigerian_sweet,sweet,soft
+sad,evening,0.7849149854334576,-0.1,chocolate,nigerian_sweet,sweet,soft
+tired,evening,0.17116563095058954,-0.97,kilishi,nigerian_savory,spicy,chewy
+anxious,morning,0.7549612742561767,-0.1,kokoro,savory_snacks,savory,crisp
+content,morning,0.6833775250726944,0.55,popcorn,savory_snacks,savory,crisp
+excited,morning,0.1301597950468527,0.2,plantain chips,nigerian_savory,savory,crisp
+happy,afternoon,0.6275366864027342,0.2,akara,nigerian_fried,savory,soft
+happy,afternoon,0.25733599172763894,0.7,coconut candy,nigerian_sweet,sweet,chewy
+sad,morning,0.32221151876980153,-0.1,akara,nigerian_fried,savory,soft
+stressed,evening,0.7356248197248398,-0.1,kilishi,nigerian_savory,spicy,chewy
+sad,midnight,0.07257736178794483,-0.93,puff puff,nigerian_fried,sweet,soft
+bored,morning,0.6300392686870234,-0.3,popcorn,savory_snacks,savory,crisp
+anxious,afternoon,0.7217891227697906,-0.1,fruit,healthy_light,light,soft
+content,morning,0.03114397066053396,0.2,akara,nigerian_fried,savory,soft
+bored,morning,0.34510451901925976,0.3,pretzels,savory_snacks,savory,crisp
+bored,evening,0.22599685277828183,-0.29,kokoro,savory_snacks,savory,crisp
+nostalgic,morning,0.6104866908810467,0.65,candy,nigerian_sweet,sweet,chewy
+stressed,midnight,0.14890871820267834,-0.34,popcorn,savory_snacks,savory,crisp
+happy,midnight,0.23619344199171374,0.76,chin chin,nigerian_fried,sweet,crisp
+content,evening,0.2657528264924837,0.39,granola bar,healthy_light,light,crisp
+stressed,morning,0.3706349226182375,-0.91,ice cream,nigerian_sweet,sweet,soft
+sad,morning,0.6124374004126887,-1.0,candy,nigerian_sweet,sweet,chewy
+happy,afternoon,0.16044820085838635,0.2,puff puff,nigerian_fried,sweet,soft
+nostalgic,afternoon,0.5834758352703971,0.93,candy,nigerian_sweet,sweet,chewy
+anxious,morning,0.6072551514067006,-0.1,kokoro,savory_snacks,savory,crisp
+bored,evening,0.14529117420528212,-0.26,kokoro,savory_snacks,savory,crisp
+hungry,midnight,1.0,0.3,suya,nigerian_savory,spicy,chewy
+sad,evening,0.43559756728309207,-0.1,cookies,nigerian_sweet,sweet,crisp
+tired,evening,0.5027472379351992,-0.1,cheese,healthy_light,light,soft
+tired,evening,0.6072042260175449,-0.79,veggies,healthy_light,light,crisp
+sad,morning,0.35905091659728483,-0.68,coconut candy,nigerian_sweet,sweet,chewy
+content,evening,0.5556763418026284,0.46,yogurt,healthy_light,light,soft
+content,morning,0.11373635736311645,0.2,fruit,healthy_light,light,soft
+happy,morning,0.5816454092923121,0.2,veggies,healthy_light,light,crisp
+sad,evening,0.40533811918619667,-0.23,fruit,healthy_light,light,soft
+content,evening,0.009134386763258907,0.41,veggies,healthy_light,light,crisp
+stressed,evening,0.40087030420975767,-0.1,candy,nigerian_sweet,sweet,chewy
+sad,morning,0.5747631578580401,-0.1,cookies,nigerian_sweet,sweet,crisp
+tired,midnight,0.18138190586397063,-0.1,granola bar,healthy_light,light,crisp
+tired,afternoon,0.6971312273526835,-0.1,yogurt,healthy_light,light,soft
+tired,evening,0.6805442084838771,-0.1,yogurt,healthy_light,light,soft
+stressed,morning,0.43908693206188476,-0.42,chocolate,nigerian_sweet,sweet,soft
+tired,morning,0.344432167605752,-0.1,yogurt,healthy_light,light,soft
+sad,afternoon,0.3462135036794101,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+sad,midnight,0.7856396296127701,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+content,midnight,0.6007518386906546,0.2,dodo ikire,nigerian_sweet,sweet,soft
+sad,morning,0.009184527799502273,-0.1,fruit,healthy_light,light,soft
+excited,midnight,0.32288080188927304,0.48,plantain chips,nigerian_savory,savory,crisp
+bored,midnight,0.0592337743298784,0.21,kokoro,savory_snacks,savory,crisp
+tired,midnight,0.5254048507796457,-0.1,fruit,healthy_light,light,soft
+happy,afternoon,0.05466728387648337,0.2,boli,nigerian_savory,savory,soft
+happy,afternoon,0.21392162228603306,0.2,yogurt,healthy_light,light,soft
+anxious,morning,0.5376448310018027,-0.1,popcorn,savory_snacks,savory,crisp
+happy,midnight,0.7573869831387166,0.2,akara,nigerian_fried,savory,soft
+anxious,midnight,0.005345703379110223,-0.1,popcorn,savory_snacks,savory,crisp
+happy,morning,0.012315913353046782,0.2,puff puff,nigerian_fried,sweet,soft
+hungry,midnight,1.0,0.3,kilishi,nigerian_savory,spicy,chewy
+stressed,afternoon,0.08151448069834943,-0.98,coconut candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.6457514550329505,-0.1,pretzels,savory_snacks,savory,crisp
+sad,evening,0.4715631915877578,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+anxious,midnight,0.523195273871841,-0.1,roasted groundnuts,nigerian_savory,savory,crisp
+happy,morning,0.17152518639453165,0.2,chin chin,nigerian_fried,sweet,crisp
+excited,evening,0.17227550510604211,0.2,puff puff,nigerian_fried,sweet,soft
+bored,afternoon,0.6440722547965302,0.3,veggies,healthy_light,light,crisp
+stressed,afternoon,0.41088883723545966,-0.49,popcorn,savory_snacks,savory,crisp
+content,morning,0.7366132867706859,0.2,yogurt,healthy_light,light,soft
+sad,afternoon,0.6878590683130208,-0.93,chocolate,nigerian_sweet,sweet,soft
+nostalgic,evening,0.564368664226789,0.2,candy,nigerian_sweet,sweet,chewy
+nostalgic,midnight,0.33551168933357733,0.2,candy,nigerian_sweet,sweet,chewy
+stressed,afternoon,0.4021049941041044,-0.89,ice cream,nigerian_sweet,sweet,soft
+happy,evening,0.5703680062870446,0.2,akara,nigerian_fried,savory,soft
+happy,morning,0.05639355651451572,0.2,akara,nigerian_fried,savory,soft
+content,midnight,0.356960976782035,0.61,akara,nigerian_fried,savory,soft
+sad,afternoon,0.4284430519037381,-0.29,cookies,nigerian_sweet,sweet,crisp
+content,evening,0.17284809299581314,0.62,granola bar,healthy_light,light,crisp
+sad,afternoon,0.7528966500269388,-0.1,plantain chips,nigerian_savory,savory,crisp
+tired,evening,0.27911206003345884,-0.1,cheese,healthy_light,light,soft
+bored,midnight,0.5986846829325918,-0.12,popcorn,savory_snacks,savory,crisp
+anxious,morning,0.5775433820125436,-0.23,pretzels,savory_snacks,savory,crisp
+anxious,morning,0.5749916942828243,-0.1,popcorn,savory_snacks,savory,crisp
+happy,morning,0.3313607404574643,0.46,coconut candy,nigerian_sweet,sweet,chewy
+tired,evening,0.17788904379853623,-0.1,yogurt,healthy_light,light,soft
+happy,afternoon,0.21408063908936603,0.2,candy,nigerian_sweet,sweet,chewy
+hungry,morning,1.0,-0.17,boli,nigerian_savory,savory,soft
+anxious,evening,0.6028757045966024,-0.59,pretzels,savory_snacks,savory,crisp
+tired,morning,0.4260032531327855,-0.77,fruit,healthy_light,light,soft
+bored,midnight,0.7843484562162975,0.02,kilishi,nigerian_savory,spicy,chewy
+anxious,afternoon,0.40624405116702333,-0.16,kilishi,nigerian_savory,spicy,chewy
+happy,morning,0.3264952454607385,0.77,akara,nigerian_fried,savory,soft
+nostalgic,afternoon,0.5787549298839296,0.2,cookies,nigerian_sweet,sweet,crisp
+content,evening,0.10190913280027143,0.2,veggies,healthy_light,light,crisp
+content,morning,0.7060479014178779,0.2,puff puff,nigerian_fried,sweet,soft
+content,evening,0.224705572148995,0.2,puff puff,nigerian_fried,sweet,soft
+stressed,midnight,0.7744526496406072,-0.87,coconut candy,nigerian_sweet,sweet,chewy
+sad,morning,0.7913742031662001,-0.54,fruit,healthy_light,light,soft
+sad,evening,0.28041642742892947,-0.25,puff puff,nigerian_fried,sweet,soft
+excited,midnight,0.03625542316871568,0.2,chocolate,nigerian_sweet,sweet,soft
+content,midnight,0.38719149454379775,0.2,granola bar,healthy_light,light,crisp
+excited,morning,0.4648120747000876,0.2,puff puff,nigerian_fried,sweet,soft
+sad,midnight,0.4144064531236999,-0.72,candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.5299871575532865,-0.31,popcorn,savory_snacks,savory,crisp
+bored,evening,0.4777242447922415,0.3,crackers,savory_snacks,savory,crisp
+tired,afternoon,0.24552361055565602,-0.17,yogurt,healthy_light,light,soft
+tired,morning,0.19320050239426678,-0.57,cheese,healthy_light,light,soft
+excited,evening,0.4463419561205606,0.2,puff puff,nigerian_fried,sweet,soft
+excited,afternoon,0.6369931604330948,0.2,plantain chips,nigerian_savory,savory,crisp
+nostalgic,afternoon,0.1800335009366977,0.2,chocolate,nigerian_sweet,sweet,soft
+bored,evening,0.47624261274199126,-0.3,kokoro,savory_snacks,savory,crisp
+content,evening,0.7866445254547739,0.57,granola bar,healthy_light,light,crisp
+stressed,midnight,0.02491927423471285,-0.48,roasted groundnuts,nigerian_savory,savory,crisp
+stressed,morning,0.5040319027839858,-0.1,chocolate,nigerian_sweet,sweet,soft
+stressed,midnight,0.26023249468939824,-0.1,cheese,healthy_light,light,soft
+content,evening,0.6501708959144497,0.41,cheese,healthy_light,light,soft
+nostalgic,morning,0.5985471296390771,0.61,ice cream,nigerian_sweet,sweet,soft
+stressed,evening,0.2432242179583997,-0.36,kokoro,savory_snacks,savory,crisp
+content,afternoon,0.4529445529800567,0.2,yogurt,healthy_light,light,soft
+happy,afternoon,0.7332826413139288,0.41,chin chin,nigerian_fried,sweet,crisp
+excited,afternoon,0.45071628057011215,0.25,boli,nigerian_savory,savory,soft
+tired,morning,0.5106577918334613,-0.1,fruit,healthy_light,light,soft
+tired,midnight,0.4774815015102076,-0.1,yogurt,healthy_light,light,soft
+excited,evening,0.3754281818606323,0.2,akara,nigerian_fried,savory,soft
+excited,afternoon,0.4745265752315746,0.2,akara,nigerian_fried,savory,soft
+anxious,afternoon,0.08805062736089218,-0.1,chips,savory_snacks,savory,crisp
+tired,morning,0.5189111654150524,-0.45,candy,nigerian_sweet,sweet,chewy
+tired,evening,0.16333324733459442,-0.92,veggies,healthy_light,light,crisp
+nostalgic,afternoon,0.015315894397469344,0.56,cookies,nigerian_sweet,sweet,crisp
+content,afternoon,0.5485604343469151,0.82,cheese,healthy_light,light,soft
+nostalgic,afternoon,0.45808578630561797,0.2,veggies,healthy_light,light,crisp
+tired,midnight,0.47526622445576994,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,midnight,0.704778404511726,0.77,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,evening,0.5467630219260071,0.2,ice cream,nigerian_sweet,sweet,soft
+happy,evening,0.024020804263514252,0.79,akara,nigerian_fried,savory,soft
+excited,evening,0.6207292262458448,0.2,puff puff,nigerian_fried,sweet,soft
+sad,morning,0.6820379369967764,-0.1,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.1344945027194367,0.2,akara,nigerian_fried,savory,soft
+happy,evening,0.11782045084167275,0.95,ice cream,nigerian_sweet,sweet,soft
+sad,midnight,0.12445714949544184,-0.59,dodo ikire,nigerian_sweet,sweet,soft
+happy,afternoon,0.2051704488134128,0.2,chin chin,nigerian_fried,sweet,crisp
+stressed,afternoon,0.7185904511625881,-0.1,roasted groundnuts,nigerian_savory,savory,crisp
+bored,afternoon,0.3876303960640087,-0.3,kokoro,savory_snacks,savory,crisp
+happy,afternoon,0.6244448215097711,0.2,chin chin,nigerian_fried,sweet,crisp
+stressed,evening,0.06581785942164951,-0.1,cookies,nigerian_sweet,sweet,crisp
+happy,midnight,0.29104771291274684,0.2,puff puff,nigerian_fried,sweet,soft
+hungry,morning,1.0,0.3,boli,nigerian_savory,savory,soft
+content,morning,0.6121282630534131,0.88,puff puff,nigerian_fried,sweet,soft
+excited,morning,0.39405525660263807,0.2,plantain chips,nigerian_savory,savory,crisp
+nostalgic,afternoon,0.09858606057305988,0.4,candy,nigerian_sweet,sweet,chewy
+nostalgic,morning,0.7611558605304736,0.2,candy,nigerian_sweet,sweet,chewy
+excited,evening,0.3222206665863199,0.94,cookies,nigerian_sweet,sweet,crisp
+bored,evening,0.456701933471581,-0.3,popcorn,savory_snacks,savory,crisp
+stressed,afternoon,0.7225526230675433,-0.1,candy,nigerian_sweet,sweet,chewy
+sad,afternoon,0.299638594703665,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+tired,evening,0.4585785555596732,-0.32,fruit,healthy_light,light,soft
+bored,morning,0.6992574186441481,-0.3,chips,savory_snacks,savory,crisp
+nostalgic,afternoon,0.04281157033043464,0.2,dodo ikire,nigerian_sweet,sweet,soft
+tired,morning,0.0750212210056132,-0.1,fruit,healthy_light,light,soft
+bored,midnight,0.73961797498552,0.3,chips,savory_snacks,savory,crisp
+content,morning,0.12359376320394065,0.2,veggies,healthy_light,light,crisp
+hungry,midnight,1.0,-0.25,plantain chips,nigerian_savory,savory,crisp
+anxious,afternoon,0.16355869797141845,-0.32,crackers,savory_snacks,savory,crisp
+nostalgic,afternoon,0.6188421934919098,0.2,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,morning,0.6713443159842389,0.2,puff puff,nigerian_fried,sweet,soft
+stressed,evening,0.3725460334098236,-0.1,popcorn,savory_snacks,savory,crisp
+nostalgic,midnight,0.303801218335454,0.6,cookies,nigerian_sweet,sweet,crisp
+happy,morning,0.1686251594837506,0.2,ice cream,nigerian_sweet,sweet,soft
+nostalgic,afternoon,0.05293215106755236,0.2,candy,nigerian_sweet,sweet,chewy
+content,evening,0.3348658284251913,0.2,yogurt,healthy_light,light,soft
+happy,evening,0.21239712594325788,0.22,chin chin,nigerian_fried,sweet,crisp
+content,evening,0.47970205476793715,0.2,cheese,healthy_light,light,soft
+bored,morning,0.008227596748553624,0.3,crackers,savory_snacks,savory,crisp
+hungry,afternoon,1.0,-0.3,plantain chips,nigerian_savory,savory,crisp
+content,afternoon,0.2747093617421154,0.67,fruit,healthy_light,light,soft
+sad,midnight,0.15879285968427928,-0.67,cookies,nigerian_sweet,sweet,crisp
+bored,evening,0.7744611051605869,-0.11,popcorn,savory_snacks,savory,crisp
+excited,afternoon,0.7238130733440944,0.3,chin chin,nigerian_fried,sweet,crisp
+bored,evening,0.6056384917589004,-0.3,chin chin,nigerian_fried,sweet,crisp
+anxious,afternoon,0.5736964547777549,-0.1,kokoro,savory_snacks,savory,crisp
+bored,midnight,0.5528446501914094,-0.3,suya,nigerian_savory,spicy,chewy
+bored,morning,0.6905084301885913,0.3,plantain chips,nigerian_savory,savory,crisp
+happy,morning,0.3942556676262597,0.2,puff puff,nigerian_fried,sweet,soft
+stressed,morning,0.3120961877506714,-0.29,kuli kuli,nigerian_savory,spicy,crisp
+happy,evening,0.7452439314475848,0.64,puff puff,nigerian_fried,sweet,soft
+nostalgic,afternoon,0.4484638472008389,0.89,chin chin,nigerian_fried,sweet,crisp
+content,afternoon,0.4614859049061602,0.2,roasted groundnuts,nigerian_savory,savory,crisp
+stressed,morning,0.7165583705594979,-0.1,candy,nigerian_sweet,sweet,chewy
+nostalgic,midnight,0.08261200710003874,0.2,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,afternoon,0.3388383327935171,0.59,akara,nigerian_fried,savory,soft
+stressed,afternoon,0.040279621575482594,-0.89,chocolate,nigerian_sweet,sweet,soft
+stressed,evening,0.4595494046977646,-0.72,ice cream,nigerian_sweet,sweet,soft
+anxious,afternoon,0.3818803184979211,-0.3,kokoro,savory_snacks,savory,crisp
+bored,afternoon,0.12482864907198153,0.3,kokoro,savory_snacks,savory,crisp
+tired,afternoon,0.30479301893471994,-0.1,yogurt,healthy_light,light,soft
+excited,morning,0.163397407129734,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,afternoon,0.026127248627596703,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+anxious,afternoon,0.26568782664649965,-0.1,popcorn,savory_snacks,savory,crisp
+stressed,evening,0.4902366684292083,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+sad,midnight,0.545082410593079,-0.1,chin chin,nigerian_fried,sweet,crisp
+sad,evening,0.2042690990105953,-0.79,chocolate,nigerian_sweet,sweet,soft
+anxious,afternoon,0.22247961205308517,-0.57,pretzels,savory_snacks,savory,crisp
+happy,midnight,0.03353217337300603,0.2,akara,nigerian_fried,savory,soft
+tired,afternoon,0.2541557580377298,-0.1,popcorn,savory_snacks,savory,crisp
+content,evening,0.7474432913339922,0.83,granola bar,healthy_light,light,crisp
+sad,afternoon,0.2518606634813191,-0.91,chocolate,nigerian_sweet,sweet,soft
+sad,afternoon,0.1171490052822529,-0.1,ice cream,nigerian_sweet,sweet,soft
+sad,midnight,0.6145025427047058,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+excited,morning,0.24677462519158722,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,evening,0.570276796688764,0.3,popcorn,savory_snacks,savory,crisp
+stressed,midnight,0.5368745256687809,-0.1,popcorn,savory_snacks,savory,crisp
+content,evening,0.3635225235839623,0.56,fruit,healthy_light,light,soft
+excited,afternoon,0.09631006303127121,0.88,puff puff,nigerian_fried,sweet,soft
+stressed,evening,0.39751641480003913,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+tired,evening,0.6058263826204007,-0.1,chocolate,nigerian_sweet,sweet,soft
+happy,morning,0.04191303647588898,0.2,chin chin,nigerian_fried,sweet,crisp
+stressed,morning,0.667957764555523,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,midnight,0.028744145748778396,0.85,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.022921942062123613,0.2,akara,nigerian_fried,savory,soft
+bored,midnight,0.5581730460426344,-0.27,chips,savory_snacks,savory,crisp
+happy,evening,0.5675510917071799,0.2,yogurt,healthy_light,light,soft
+excited,midnight,0.07455689565015576,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,midnight,0.6538442497705894,0.3,plantain chips,nigerian_savory,savory,crisp
+bored,midnight,0.22986137320712158,-0.3,crackers,savory_snacks,savory,crisp
+nostalgic,morning,0.35368562774377604,0.2,candy,nigerian_sweet,sweet,chewy
+stressed,afternoon,0.1668706941928406,-0.41,pretzels,savory_snacks,savory,crisp
+anxious,evening,0.2888597810728298,-0.18,chips,savory_snacks,savory,crisp
+happy,morning,0.27002597270705514,0.61,akara,nigerian_fried,savory,soft
+bored,midnight,0.7165519554132933,-0.3,popcorn,savory_snacks,savory,crisp
+stressed,evening,0.6324164082173388,-0.72,coconut candy,nigerian_sweet,sweet,chewy
+happy,evening,0.5903607579180737,0.2,chin chin,nigerian_fried,sweet,crisp
+happy,afternoon,0.3556226024401277,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,evening,0.4622456402008678,-0.1,chocolate,nigerian_sweet,sweet,soft
+tired,midnight,0.357153537437239,-0.1,veggies,healthy_light,light,crisp
+tired,evening,0.7475464310027532,-0.1,veggies,healthy_light,light,crisp
+content,afternoon,0.4188804377220894,0.2,veggies,healthy_light,light,crisp
+stressed,evening,0.16825484502863494,-0.1,ice cream,nigerian_sweet,sweet,soft
+happy,afternoon,0.2302650390812847,0.2,fruit,healthy_light,light,soft
+stressed,evening,0.4753934618468778,-0.1,candy,nigerian_sweet,sweet,chewy
+sad,afternoon,0.11471629600871402,-0.96,ice cream,nigerian_sweet,sweet,soft
+bored,midnight,0.5976626137032232,-0.3,suya,nigerian_savory,spicy,chewy
+tired,midnight,0.561106628447752,-0.77,fruit,healthy_light,light,soft
+tired,midnight,0.2655772037886764,-0.1,suya,nigerian_savory,spicy,chewy
+bored,midnight,0.38617077846154757,0.3,crackers,savory_snacks,savory,crisp
+excited,afternoon,0.5310595798821801,0.93,akara,nigerian_fried,savory,soft
+tired,morning,0.01974732577966769,-0.27,cheese,healthy_light,light,soft
+happy,afternoon,0.7338144532621446,0.2,akara,nigerian_fried,savory,soft
+bored,afternoon,0.6278157454599904,0.3,popcorn,savory_snacks,savory,crisp
+content,midnight,0.7567397152256693,0.2,chin chin,nigerian_fried,sweet,crisp
+stressed,midnight,0.2606587686163878,-0.74,coconut candy,nigerian_sweet,sweet,chewy
+anxious,morning,0.5320447912053049,-0.1,chips,savory_snacks,savory,crisp
+happy,morning,0.3685358638667913,0.2,akara,nigerian_fried,savory,soft
+tired,midnight,0.6238567072080545,-0.76,akara,nigerian_fried,savory,soft
+sad,evening,0.11857396967945971,-0.82,cheese,healthy_light,light,soft
+content,morning,0.41156906219191536,0.2,yogurt,healthy_light,light,soft
+tired,midnight,0.18058217907130195,-0.22,fruit,healthy_light,light,soft
+happy,evening,0.7898689268636367,0.2,akara,nigerian_fried,savory,soft
+hungry,afternoon,1.0,-0.07,boli,nigerian_savory,savory,soft
+bored,afternoon,0.5380058101389193,0.3,chips,savory_snacks,savory,crisp
+tired,evening,0.5332936679034979,-0.76,yogurt,healthy_light,light,soft
+content,evening,0.39996719357183075,0.46,fruit,healthy_light,light,soft
+happy,afternoon,0.24602383639236508,0.2,dodo ikire,nigerian_sweet,sweet,soft
+stressed,midnight,0.7707839579794621,-0.78,candy,nigerian_sweet,sweet,chewy
+excited,midnight,0.5215206924499686,0.66,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.5102193134764733,0.64,puff puff,nigerian_fried,sweet,soft
+anxious,afternoon,0.47887608592373665,-0.1,roasted groundnuts,nigerian_savory,savory,crisp
+excited,midnight,0.5841773742057994,0.2,puff puff,nigerian_fried,sweet,soft
+stressed,afternoon,0.6163577768591919,-0.33,pretzels,savory_snacks,savory,crisp
+anxious,midnight,0.04550511822211725,-0.1,popcorn,savory_snacks,savory,crisp
+anxious,evening,0.744513981081568,-0.1,popcorn,savory_snacks,savory,crisp
+tired,morning,0.09635787199725235,-0.1,yogurt,healthy_light,light,soft
+happy,evening,0.06137826148230818,0.2,puff puff,nigerian_fried,sweet,soft
+happy,afternoon,0.28378284538417015,0.2,akara,nigerian_fried,savory,soft
+sad,afternoon,0.4911835650187151,-0.1,chocolate,nigerian_sweet,sweet,soft
+excited,morning,0.7524031623035221,0.3,coconut candy,nigerian_sweet,sweet,chewy
+excited,evening,0.4202067350252667,0.2,kuli kuli,nigerian_savory,spicy,crisp
+stressed,midnight,0.13012865208438812,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+tired,afternoon,0.29091628713555967,-0.8,dodo ikire,nigerian_sweet,sweet,soft
+bored,midnight,0.0634242277049534,0.13,yogurt,healthy_light,light,soft
+bored,midnight,0.44668185205129096,0.3,crackers,savory_snacks,savory,crisp
+excited,afternoon,0.6041068939561568,0.2,suya,nigerian_savory,spicy,chewy
+excited,midnight,0.7326305915633018,0.2,chin chin,nigerian_fried,sweet,crisp
+anxious,evening,0.7001068948969218,-0.1,kilishi,nigerian_savory,spicy,chewy
+happy,afternoon,0.375614932276507,0.2,fruit,healthy_light,light,soft
+nostalgic,afternoon,0.6477400290127115,0.9,akara,nigerian_fried,savory,soft
+happy,evening,0.18135252165993895,0.2,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.04365232662615917,0.2,yogurt,healthy_light,light,soft
+stressed,morning,0.6682980242273969,-0.61,dodo ikire,nigerian_sweet,sweet,soft
+bored,afternoon,0.6398266915566267,0.11,crackers,savory_snacks,savory,crisp
+content,morning,0.01165372380102312,0.2,fruit,healthy_light,light,soft
+sad,evening,0.5005206315418212,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+tired,afternoon,0.22669125511289456,-0.1,yogurt,healthy_light,light,soft
+tired,evening,0.13069340671873617,-0.63,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.6838446230394092,0.9,dodo ikire,nigerian_sweet,sweet,soft
+stressed,evening,0.4045573950250992,-0.88,boli,nigerian_savory,savory,soft
+tired,midnight,0.1614734682910065,-0.48,ice cream,nigerian_sweet,sweet,soft
+content,afternoon,0.14822148026683202,0.2,fruit,healthy_light,light,soft
+nostalgic,afternoon,0.36342271743185806,0.2,cheese,healthy_light,light,soft
+content,afternoon,0.4148493509325872,0.2,cheese,healthy_light,light,soft
+anxious,evening,0.037578392878511835,-0.1,kuli kuli,nigerian_savory,spicy,crisp
+anxious,evening,0.536347467037534,-0.1,pretzels,savory_snacks,savory,crisp
+sad,midnight,0.46369527778250935,-0.96,fruit,healthy_light,light,soft
+hungry,afternoon,1.0,0.3,plantain chips,nigerian_savory,savory,crisp
+stressed,morning,0.04077990161795393,-0.1,candy,nigerian_sweet,sweet,chewy
+happy,evening,0.7379474269248996,0.2,puff puff,nigerian_fried,sweet,soft
+content,evening,0.25993823552531303,0.37,granola bar,healthy_light,light,crisp
+excited,morning,0.32773829543401534,0.96,akara,nigerian_fried,savory,soft
+bored,evening,0.21812051784998776,0.3,pretzels,savory_snacks,savory,crisp
+happy,afternoon,0.04769386027572722,0.38,puff puff,nigerian_fried,sweet,soft
+excited,morning,0.49488823127515125,0.2,puff puff,nigerian_fried,sweet,soft
+content,morning,0.10640783912586303,0.2,cheese,healthy_light,light,soft
+nostalgic,morning,0.327268118907901,0.2,cookies,nigerian_sweet,sweet,crisp
+anxious,midnight,0.28624899946847443,-0.1,popcorn,savory_snacks,savory,crisp
+excited,evening,0.2520084057467397,0.2,akara,nigerian_fried,savory,soft
+bored,evening,0.6241701188285069,0.13,crackers,savory_snacks,savory,crisp
+tired,evening,0.1566044851244997,-0.1,chocolate,nigerian_sweet,sweet,soft
+bored,afternoon,0.3352795783336682,0.2,popcorn,savory_snacks,savory,crisp
+happy,afternoon,0.7264120714999794,0.2,chin chin,nigerian_fried,sweet,crisp
+happy,evening,0.1395274136891996,0.2,puff puff,nigerian_fried,sweet,soft
+tired,morning,0.10030027938709862,-0.49,yogurt,healthy_light,light,soft
+excited,afternoon,0.46169366591032523,0.78,akara,nigerian_fried,savory,soft
+sad,midnight,0.23659805007601653,-0.49,coconut candy,nigerian_sweet,sweet,chewy
+stressed,midnight,0.19748562207658635,-0.39,candy,nigerian_sweet,sweet,chewy
+sad,midnight,0.6652326290701325,-0.65,cookies,nigerian_sweet,sweet,crisp
+anxious,afternoon,0.22662752279406187,-0.2,chips,savory_snacks,savory,crisp
+tired,morning,0.2470418202796923,-0.41,popcorn,savory_snacks,savory,crisp
+tired,morning,0.3668148497496123,-0.1,granola bar,healthy_light,light,crisp
+nostalgic,afternoon,0.588734362841591,0.2,puff puff,nigerian_fried,sweet,soft
+bored,midnight,0.717908573970972,-0.3,chips,savory_snacks,savory,crisp
+nostalgic,midnight,0.3330102245503259,0.2,fruit,healthy_light,light,soft
+excited,afternoon,0.3285461064082263,0.2,candy,nigerian_sweet,sweet,chewy
+nostalgic,afternoon,0.299157707583254,0.77,chin chin,nigerian_fried,sweet,crisp
+bored,evening,0.10457385887180584,0.3,pretzels,savory_snacks,savory,crisp
+stressed,afternoon,0.2935691256057604,-0.71,dodo ikire,nigerian_sweet,sweet,soft
+tired,afternoon,0.3242602885175627,-0.46,cookies,nigerian_sweet,sweet,crisp
+nostalgic,midnight,0.6360464140849049,0.2,coconut candy,nigerian_sweet,sweet,chewy
+anxious,midnight,0.30134115234357,-0.32,plantain chips,nigerian_savory,savory,crisp
+happy,midnight,0.06592477748955856,0.2,puff puff,nigerian_fried,sweet,soft
+nostalgic,evening,0.6857847498958329,0.53,akara,nigerian_fried,savory,soft
+nostalgic,morning,0.26252805788288625,0.2,dodo ikire,nigerian_sweet,sweet,soft
+stressed,afternoon,0.24965123572161652,-0.1,chips,savory_snacks,savory,crisp
+hungry,morning,1.0,0.3,roasted groundnuts,nigerian_savory,savory,crisp
+nostalgic,midnight,0.2503356384230581,0.72,akara,nigerian_fried,savory,soft
+anxious,midnight,0.5174697831411048,-0.1,popcorn,savory_snacks,savory,crisp
+nostalgic,morning,0.380380572186187,0.7,dodo ikire,nigerian_sweet,sweet,soft
+content,morning,0.5088378738713013,0.2,yogurt,healthy_light,light,soft
+excited,midnight,0.6629671870544052,0.66,suya,nigerian_savory,spicy,chewy
+content,evening,0.5645083170951852,0.84,chin chin,nigerian_fried,sweet,crisp
+happy,afternoon,0.32622242752493014,0.77,akara,nigerian_fried,savory,soft
+anxious,midnight,0.18645824951266798,-0.1,kokoro,savory_snacks,savory,crisp
+happy,midnight,0.31449743856566337,0.2,puff puff,nigerian_fried,sweet,soft
+hungry,afternoon,1.0,-0.3,kuli kuli,nigerian_savory,spicy,crisp
+stressed,evening,0.7039317013816117,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+hungry,afternoon,1.0,-0.05,roasted groundnuts,nigerian_savory,savory,crisp
+excited,midnight,0.33775378710454246,0.57,akara,nigerian_fried,savory,soft
+tired,morning,0.10988939677493939,-0.45,ice cream,nigerian_sweet,sweet,soft
+anxious,afternoon,0.4768400926087602,-0.1,kokoro,savory_snacks,savory,crisp
+bored,morning,0.45660918476725876,-0.04,chips,savory_snacks,savory,crisp
+tired,afternoon,0.6751035289847432,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+happy,afternoon,0.578227680497217,0.2,dodo ikire,nigerian_sweet,sweet,soft
+stressed,evening,0.29985993947999817,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+happy,afternoon,0.08642316599326341,0.2,dodo ikire,nigerian_sweet,sweet,soft
+tired,midnight,0.6419214275610594,-0.32,granola bar,healthy_light,light,crisp
+excited,evening,0.6185468010070067,0.34,puff puff,nigerian_fried,sweet,soft
+happy,evening,0.38658566070034817,0.97,dodo ikire,nigerian_sweet,sweet,soft
+excited,afternoon,0.3189139953704512,0.73,puff puff,nigerian_fried,sweet,soft
+nostalgic,evening,0.3227847752215997,0.2,chocolate,nigerian_sweet,sweet,soft
+content,afternoon,0.7935113567579934,0.9,boli,nigerian_savory,savory,soft
+stressed,afternoon,0.44443965590849593,-0.42,chocolate,nigerian_sweet,sweet,soft
+nostalgic,midnight,0.646292516547185,0.47,ice cream,nigerian_sweet,sweet,soft
+bored,afternoon,0.23812022205462435,-0.3,popcorn,savory_snacks,savory,crisp
+content,afternoon,0.5743461527520815,0.2,fruit,healthy_light,light,soft
+content,morning,0.6570001236477635,0.2,akara,nigerian_fried,savory,soft
+stressed,morning,0.11120176415926215,-0.12,dodo ikire,nigerian_sweet,sweet,soft
+happy,midnight,0.7478364139942267,0.82,ice cream,nigerian_sweet,sweet,soft
+stressed,evening,0.4029667096672566,-0.1,kokoro,savory_snacks,savory,crisp
+sad,midnight,0.5529973310287915,-0.66,candy,nigerian_sweet,sweet,chewy
+content,midnight,0.3289632537694833,0.33,kuli kuli,nigerian_savory,spicy,crisp
+content,afternoon,0.33081322423196735,0.2,ice cream,nigerian_sweet,sweet,soft
+hungry,afternoon,1.0,0.3,roasted groundnuts,nigerian_savory,savory,crisp
+happy,morning,0.11295925082974795,0.53,akara,nigerian_fried,savory,soft
+sad,afternoon,0.3825271388446753,-0.1,candy,nigerian_sweet,sweet,chewy
+excited,morning,0.7341178223235468,0.77,akara,nigerian_fried,savory,soft
+happy,morning,0.4494910318476148,0.34,granola bar,healthy_light,light,crisp
+content,afternoon,0.6515071365352653,0.2,kuli kuli,nigerian_savory,spicy,crisp
+stressed,afternoon,0.4515163042711917,-0.1,candy,nigerian_sweet,sweet,chewy
+content,midnight,0.16327012892460824,0.2,fruit,healthy_light,light,soft
+happy,evening,0.3304859181817154,0.2,chin chin,nigerian_fried,sweet,crisp
+tired,evening,0.044592682869953396,-0.1,popcorn,savory_snacks,savory,crisp
+happy,midnight,0.1656456667064263,0.2,akara,nigerian_fried,savory,soft
+sad,midnight,0.09859796650604116,-0.38,fruit,healthy_light,light,soft
+hungry,midnight,1.0,0.3,plantain chips,nigerian_savory,savory,crisp
+bored,afternoon,0.42764737532504693,-0.3,roasted groundnuts,nigerian_savory,savory,crisp
+bored,morning,0.7121892974366167,-0.3,puff puff,nigerian_fried,sweet,soft
+tired,evening,0.704716128435802,-0.9,pretzels,savory_snacks,savory,crisp
+stressed,evening,0.06968743156914724,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+tired,midnight,0.3912387203594266,-0.3,veggies,healthy_light,light,crisp
+content,morning,0.24975350702911037,0.45,cheese,healthy_light,light,soft
+hungry,midnight,1.0,0.3,kilishi,nigerian_savory,spicy,chewy
+content,morning,0.5958600604239305,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,midnight,0.5991705206883189,-0.29,dodo ikire,nigerian_sweet,sweet,soft
+anxious,evening,0.09027454974689714,-0.1,chips,savory_snacks,savory,crisp
+sad,evening,0.7738169522962381,-0.1,veggies,healthy_light,light,crisp
+excited,midnight,0.769681683332022,0.2,akara,nigerian_fried,savory,soft
+anxious,morning,0.16478402870156936,-1.0,roasted groundnuts,nigerian_savory,savory,crisp
+stressed,evening,0.3101561238712054,-0.72,ice cream,nigerian_sweet,sweet,soft
+nostalgic,evening,0.5850004714779001,0.54,veggies,healthy_light,light,crisp
+bored,morning,0.4125412408616585,-0.01,suya,nigerian_savory,spicy,chewy
+content,afternoon,0.4778499026645695,0.2,cheese,healthy_light,light,soft
+bored,evening,0.6811245983131792,-0.3,crackers,savory_snacks,savory,crisp
+bored,evening,0.1323998197309245,0.3,crackers,savory_snacks,savory,crisp
+stressed,morning,0.4144617321580489,-0.1,crackers,savory_snacks,savory,crisp
+nostalgic,morning,0.3483170587198012,0.91,ice cream,nigerian_sweet,sweet,soft
+excited,afternoon,0.42577829988495514,0.64,akara,nigerian_fried,savory,soft
+content,morning,0.4515332702237982,0.2,puff puff,nigerian_fried,sweet,soft
+tired,midnight,0.4661489172436663,-0.75,cookies,nigerian_sweet,sweet,crisp
+stressed,morning,0.5333485215140105,-0.1,chocolate,nigerian_sweet,sweet,soft
+excited,evening,0.10909626197405267,0.46,kuli kuli,nigerian_savory,spicy,crisp
+content,afternoon,0.34899682108572594,0.32,yogurt,healthy_light,light,soft
+tired,afternoon,0.055775540666983585,-0.1,yogurt,healthy_light,light,soft
+anxious,afternoon,0.029370354786453313,-0.1,kokoro,savory_snacks,savory,crisp
+happy,morning,0.4988153561393236,0.2,akara,nigerian_fried,savory,soft
+bored,afternoon,0.4913489954552091,-0.3,pretzels,savory_snacks,savory,crisp
+happy,morning,0.3654542436449082,0.69,chin chin,nigerian_fried,sweet,crisp
+content,afternoon,0.04955721486319034,0.2,suya,nigerian_savory,spicy,chewy
+happy,afternoon,0.3063065178273468,0.44,akara,nigerian_fried,savory,soft
+bored,evening,0.33737009402073315,-0.3,crackers,savory_snacks,savory,crisp
+tired,afternoon,0.28015894481857523,-0.1,yogurt,healthy_light,light,soft
+sad,morning,0.7730194381985487,-0.1,granola bar,healthy_light,light,crisp
+anxious,midnight,0.6785451986239578,-0.1,popcorn,savory_snacks,savory,crisp
+bored,midnight,0.25443168935561594,0.3,plantain chips,nigerian_savory,savory,crisp
+nostalgic,morning,0.1316794189596598,0.2,dodo ikire,nigerian_sweet,sweet,soft
+excited,afternoon,0.4117937550054239,0.2,akara,nigerian_fried,savory,soft
+sad,afternoon,0.555934703825206,-0.98,ice cream,nigerian_sweet,sweet,soft
+bored,evening,0.4653772219787814,0.3,kokoro,savory_snacks,savory,crisp
+tired,afternoon,0.5753875352353174,-0.46,cheese,healthy_light,light,soft
+excited,evening,0.6083200538299862,0.35,chin chin,nigerian_fried,sweet,crisp
+content,morning,0.16722962990873783,0.39,cheese,healthy_light,light,soft
+excited,morning,0.11836666728752468,0.97,chin chin,nigerian_fried,sweet,crisp
+stressed,morning,0.788642927560244,-0.1,popcorn,savory_snacks,savory,crisp
+happy,afternoon,0.6533241945612989,0.77,puff puff,nigerian_fried,sweet,soft
+nostalgic,afternoon,0.4969490577552666,0.2,fruit,healthy_light,light,soft
+sad,morning,0.5412937868420052,-0.27,yogurt,healthy_light,light,soft
+bored,midnight,0.5019743190128583,0.3,fruit,healthy_light,light,soft
+stressed,evening,0.0510356450028783,-0.23,dodo ikire,nigerian_sweet,sweet,soft
+hungry,afternoon,1.0,-0.3,plantain chips,nigerian_savory,savory,crisp
+stressed,morning,0.3476247706435963,-0.1,ice cream,nigerian_sweet,sweet,soft
+stressed,evening,0.21919102523441447,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+stressed,midnight,0.18266500189488868,-0.88,chocolate,nigerian_sweet,sweet,soft
+stressed,afternoon,0.09459071397771242,-0.1,crackers,savory_snacks,savory,crisp
+anxious,afternoon,0.4782464107212112,-0.1,crackers,savory_snacks,savory,crisp
+sad,evening,0.20513042215915345,-0.1,cookies,nigerian_sweet,sweet,crisp
+excited,evening,0.783225472633334,0.2,akara,nigerian_fried,savory,soft
+anxious,midnight,0.42892430900218886,-0.1,kokoro,savory_snacks,savory,crisp
+bored,afternoon,0.7733649120147685,0.3,roasted groundnuts,nigerian_savory,savory,crisp
+excited,morning,0.08892070382664947,0.2,roasted groundnuts,nigerian_savory,savory,crisp
+stressed,afternoon,0.4461509529483622,-0.89,pretzels,savory_snacks,savory,crisp
+bored,afternoon,0.6715625873676406,0.3,popcorn,savory_snacks,savory,crisp
+excited,midnight,0.6240384696320348,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,afternoon,0.6564357181967897,-0.3,popcorn,savory_snacks,savory,crisp
+happy,afternoon,0.36828429850786154,0.42,fruit,healthy_light,light,soft
+happy,midnight,0.7691316323389112,0.27,coconut candy,nigerian_sweet,sweet,chewy
+happy,afternoon,0.10754674189564001,0.2,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.4495482028157307,0.2,puff puff,nigerian_fried,sweet,soft
+content,midnight,0.38158671409412304,0.2,cheese,healthy_light,light,soft
+bored,morning,0.7562973196918223,-0.3,fruit,healthy_light,light,soft
+excited,morning,0.767097498552328,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,midnight,0.5672012090611037,0.18,popcorn,savory_snacks,savory,crisp
+sad,morning,0.35165035341831896,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+happy,morning,0.3777811406049635,0.43,chin chin,nigerian_fried,sweet,crisp
+bored,morning,0.00494705811271734,0.3,fruit,healthy_light,light,soft
+stressed,afternoon,0.7538971515747317,-0.1,boli,nigerian_savory,savory,soft
+anxious,evening,0.5865283025094397,-0.1,pretzels,savory_snacks,savory,crisp
+excited,midnight,0.07758301001287632,0.2,chin chin,nigerian_fried,sweet,crisp
+content,morning,0.18180884284772986,0.2,veggies,healthy_light,light,crisp
+hungry,midnight,1.0,-0.3,kokoro,savory_snacks,savory,crisp
+happy,morning,0.2775671603020687,0.2,chocolate,nigerian_sweet,sweet,soft
+content,afternoon,0.6373158952121105,0.2,fruit,healthy_light,light,soft
+content,afternoon,0.20867939676967115,0.2,veggies,healthy_light,light,crisp
+sad,afternoon,0.06368406159400451,-0.1,ice cream,nigerian_sweet,sweet,soft
+stressed,midnight,0.46648460582391843,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+excited,evening,0.46497238199150664,0.44,puff puff,nigerian_fried,sweet,soft
+tired,afternoon,0.2784415643818564,-0.1,veggies,healthy_light,light,crisp
+bored,evening,0.13841909580093148,-0.3,suya,nigerian_savory,spicy,chewy
+happy,evening,0.3090301641164362,0.2,puff puff,nigerian_fried,sweet,soft
+bored,afternoon,0.005437238868889427,0.3,kokoro,savory_snacks,savory,crisp
+excited,midnight,0.7866726147313813,0.2,akara,nigerian_fried,savory,soft
+tired,evening,0.3968341808132665,-0.98,cheese,healthy_light,light,soft
+bored,afternoon,0.6732976060342193,-0.3,pretzels,savory_snacks,savory,crisp
+stressed,afternoon,0.5417159733373355,-0.76,boli,nigerian_savory,savory,soft
+stressed,morning,0.43584086822087875,-0.75,dodo ikire,nigerian_sweet,sweet,soft
+stressed,morning,0.5779291075708357,-0.99,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,midnight,0.7637330855032551,0.6,coconut candy,nigerian_sweet,sweet,chewy
+bored,evening,0.21423397961810703,-0.14,kilishi,nigerian_savory,spicy,chewy
+happy,afternoon,0.5497874747685464,0.2,akara,nigerian_fried,savory,soft
+happy,midnight,0.1806717057787136,0.2,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.23513340840394703,0.2,cookies,nigerian_sweet,sweet,crisp
+hungry,morning,1.0,-0.3,boli,nigerian_savory,savory,soft
+excited,morning,0.6014385308695465,0.2,puff puff,nigerian_fried,sweet,soft
+bored,evening,0.577772878938917,-0.3,crackers,savory_snacks,savory,crisp
+sad,evening,0.1862868455008754,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+excited,morning,0.042175813067600924,0.2,chin chin,nigerian_fried,sweet,crisp
+excited,afternoon,0.5660964685924282,0.2,kilishi,nigerian_savory,spicy,chewy
+content,morning,0.3509192147487876,0.2,granola bar,healthy_light,light,crisp
+bored,afternoon,0.4229658559072421,-0.3,chips,savory_snacks,savory,crisp
+sad,evening,0.2372300716962096,-0.47,ice cream,nigerian_sweet,sweet,soft
+stressed,midnight,0.08345046988150573,-0.71,pretzels,savory_snacks,savory,crisp
+excited,evening,0.7285319963071109,0.2,akara,nigerian_fried,savory,soft
+tired,afternoon,0.08991762174081037,-0.9,chips,savory_snacks,savory,crisp
+bored,afternoon,0.3093571599899696,0.3,veggies,healthy_light,light,crisp
+excited,evening,0.5887363250991591,0.2,puff puff,nigerian_fried,sweet,soft
+hungry,evening,1.0,0.3,boli,nigerian_savory,savory,soft
+hungry,evening,1.0,0.3,kokoro,savory_snacks,savory,crisp
+hungry,evening,1.0,-0.3,roasted groundnuts,nigerian_savory,savory,crisp
+excited,evening,0.5201497331565227,0.96,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.07761457458967157,0.2,akara,nigerian_fried,savory,soft
+nostalgic,afternoon,0.37521995177430684,0.86,dodo ikire,nigerian_sweet,sweet,soft
+excited,morning,0.2705847738538279,0.83,crackers,savory_snacks,savory,crisp
+content,morning,0.5297857266636744,0.43,dodo ikire,nigerian_sweet,sweet,soft
+happy,evening,0.08202335858224111,0.2,akara,nigerian_fried,savory,soft
+hungry,midnight,1.0,-0.08,akara,nigerian_fried,savory,soft
+content,afternoon,0.45820842636406944,0.2,yogurt,healthy_light,light,soft
+sad,evening,0.15399452050866166,-0.8,cheese,healthy_light,light,soft
+content,midnight,0.41121869590120785,0.21,veggies,healthy_light,light,crisp
+tired,afternoon,0.6053172394819191,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+stressed,afternoon,0.7582368528115657,-0.21,candy,nigerian_sweet,sweet,chewy
+happy,evening,0.655596548308842,0.2,puff puff,nigerian_fried,sweet,soft
+bored,afternoon,0.35259123286741084,-0.3,crackers,savory_snacks,savory,crisp
+anxious,afternoon,0.16470559054265693,-0.3,kuli kuli,nigerian_savory,spicy,crisp
+anxious,morning,0.49579828359325284,-0.85,popcorn,savory_snacks,savory,crisp
+bored,afternoon,0.46300518108799943,0.24,crackers,savory_snacks,savory,crisp
+content,midnight,0.5382653519363441,0.2,yogurt,healthy_light,light,soft
+happy,evening,0.7663768531859633,0.2,chin chin,nigerian_fried,sweet,crisp
+anxious,evening,0.17418311974634682,-0.1,plantain chips,nigerian_savory,savory,crisp
+happy,afternoon,0.6071814654832246,0.2,fruit,healthy_light,light,soft
+tired,afternoon,0.7160612473294761,-0.1,cheese,healthy_light,light,soft
+excited,midnight,0.358377325105752,0.2,popcorn,savory_snacks,savory,crisp
+bored,afternoon,0.044356188563073135,0.3,popcorn,savory_snacks,savory,crisp
+nostalgic,morning,0.08278005091726773,0.31,fruit,healthy_light,light,soft
+hungry,afternoon,1.0,0.3,boli,nigerian_savory,savory,soft
+excited,evening,0.24298803698007954,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,morning,0.08577791536678997,-0.15,cookies,nigerian_sweet,sweet,crisp
+content,midnight,0.13347886256446212,0.85,yogurt,healthy_light,light,soft
+anxious,afternoon,0.18351480172350565,-0.56,suya,nigerian_savory,spicy,chewy
+happy,afternoon,0.36445342559208704,0.78,akara,nigerian_fried,savory,soft
+hungry,morning,1.0,-0.3,puff puff,nigerian_fried,sweet,soft
+anxious,afternoon,0.5493428893793036,-0.51,chips,savory_snacks,savory,crisp
+content,morning,0.653685679333409,0.2,yogurt,healthy_light,light,soft
+happy,morning,0.6097036963602598,0.87,fruit,healthy_light,light,soft
+nostalgic,morning,0.4992907360365235,0.2,dodo ikire,nigerian_sweet,sweet,soft
+happy,afternoon,0.5768437287182975,0.2,coconut candy,nigerian_sweet,sweet,chewy
+sad,afternoon,0.36619505373297073,-0.81,cheese,healthy_light,light,soft
+hungry,afternoon,1.0,0.19,suya,nigerian_savory,spicy,chewy
+nostalgic,evening,0.14188108932779428,0.2,coconut candy,nigerian_sweet,sweet,chewy
+sad,morning,0.7723589076804971,-0.1,cookies,nigerian_sweet,sweet,crisp
+happy,evening,0.27544642665596747,0.2,candy,nigerian_sweet,sweet,chewy
+stressed,morning,0.6527646315321654,-0.24,plantain chips,nigerian_savory,savory,crisp
+hungry,afternoon,1.0,0.03,roasted groundnuts,nigerian_savory,savory,crisp
+happy,evening,0.22518184196073554,0.2,chin chin,nigerian_fried,sweet,crisp
+tired,afternoon,0.19496656952347413,-0.39,fruit,healthy_light,light,soft
+tired,midnight,0.13917096472267093,-0.28,fruit,healthy_light,light,soft
+sad,evening,0.23989941475525198,-0.93,ice cream,nigerian_sweet,sweet,soft
+bored,midnight,0.47633184129608674,0.3,crackers,savory_snacks,savory,crisp
+tired,afternoon,0.1235326060313704,-0.1,candy,nigerian_sweet,sweet,chewy
+bored,afternoon,0.16920539942541446,0.3,pretzels,savory_snacks,savory,crisp
+stressed,morning,0.15387709052313206,-0.1,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.006895202073424223,0.2,puff puff,nigerian_fried,sweet,soft
+excited,afternoon,0.6004353310029901,0.49,akara,nigerian_fried,savory,soft
+bored,midnight,0.6505136035853805,0.18,dodo ikire,nigerian_sweet,sweet,soft
+tired,morning,0.4625747049786316,-0.1,fruit,healthy_light,light,soft
+excited,morning,0.3903201562234415,0.2,puff puff,nigerian_fried,sweet,soft
+hungry,afternoon,1.0,-0.12,plantain chips,nigerian_savory,savory,crisp
+nostalgic,afternoon,0.3609040558382732,0.44,chocolate,nigerian_sweet,sweet,soft
+stressed,evening,0.17417991903912178,-0.5,pretzels,savory_snacks,savory,crisp
+excited,midnight,0.5052355029409282,0.2,puff puff,nigerian_fried,sweet,soft
+happy,morning,0.3669640925340306,0.2,chin chin,nigerian_fried,sweet,crisp
+excited,morning,0.741268306574705,0.42,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.6841322759771783,0.2,akara,nigerian_fried,savory,soft
+sad,morning,0.13982799030669277,-0.1,cookies,nigerian_sweet,sweet,crisp
+content,evening,0.0038947261244025814,0.2,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.7904111696523373,0.2,cookies,nigerian_sweet,sweet,crisp
+stressed,evening,0.5082119898872647,-0.92,ice cream,nigerian_sweet,sweet,soft
+sad,morning,0.7724878651047073,-0.32,coconut candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.32635025469427287,-0.1,kokoro,savory_snacks,savory,crisp
+happy,morning,0.49803759236982537,0.2,akara,nigerian_fried,savory,soft
+content,morning,0.6753487166592653,0.2,fruit,healthy_light,light,soft
+happy,morning,0.7262089949201429,0.2,cheese,healthy_light,light,soft
+content,midnight,0.4336216557331038,0.94,roasted groundnuts,nigerian_savory,savory,crisp
+stressed,evening,0.11992740259771173,-0.1,candy,nigerian_sweet,sweet,chewy
+happy,midnight,0.42917631295077857,0.2,akara,nigerian_fried,savory,soft
+happy,afternoon,0.5327577328643714,0.65,puff puff,nigerian_fried,sweet,soft
+excited,evening,0.6545164649022411,0.33,akara,nigerian_fried,savory,soft
+stressed,morning,0.11950530898114567,-0.1,ice cream,nigerian_sweet,sweet,soft
+tired,morning,0.0670327780386093,-0.1,veggies,healthy_light,light,crisp
+bored,morning,0.642954761501842,0.3,veggies,healthy_light,light,crisp
+excited,afternoon,0.6931608505992333,0.2,akara,nigerian_fried,savory,soft
+bored,morning,0.6826278388537617,0.3,suya,nigerian_savory,spicy,chewy
+bored,evening,0.3580023117596065,-0.3,boli,nigerian_savory,savory,soft
+hungry,midnight,1.0,0.3,boli,nigerian_savory,savory,soft
+stressed,morning,0.6105200461964491,-0.1,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.34203348428776964,0.2,cookies,nigerian_sweet,sweet,crisp
+happy,morning,0.06314388403072986,0.2,puff puff,nigerian_fried,sweet,soft
+sad,morning,0.3153523956799264,-0.1,chocolate,nigerian_sweet,sweet,soft
+excited,afternoon,0.044346391152987066,0.2,akara,nigerian_fried,savory,soft
+anxious,evening,0.19066976850239759,-0.1,popcorn,savory_snacks,savory,crisp
+happy,afternoon,0.6185341533975671,0.2,dodo ikire,nigerian_sweet,sweet,soft
+sad,morning,0.028127400216955326,-0.35,candy,nigerian_sweet,sweet,chewy
+sad,morning,0.5378894863457555,-0.34,dodo ikire,nigerian_sweet,sweet,soft
+excited,evening,0.6076161189735553,0.2,suya,nigerian_savory,spicy,chewy
+sad,afternoon,0.2288719376250085,-0.1,cheese,healthy_light,light,soft
+tired,morning,0.6820341159004003,-0.6,yogurt,healthy_light,light,soft
+anxious,midnight,0.1511885279769401,-0.44,pretzels,savory_snacks,savory,crisp
+stressed,afternoon,0.15678414776140956,-0.1,popcorn,savory_snacks,savory,crisp
+nostalgic,afternoon,0.10177990954960858,0.83,chocolate,nigerian_sweet,sweet,soft
+happy,afternoon,0.5376476021293883,0.2,chin chin,nigerian_fried,sweet,crisp
+hungry,evening,1.0,0.3,kilishi,nigerian_savory,spicy,chewy
+happy,evening,0.22773979107717093,0.2,candy,nigerian_sweet,sweet,chewy
+happy,afternoon,0.4964454776187669,0.28,coconut candy,nigerian_sweet,sweet,chewy
+content,evening,0.3730996756036389,0.2,akara,nigerian_fried,savory,soft
+content,evening,0.0761991471782956,0.2,cheese,healthy_light,light,soft
+stressed,midnight,0.4321738134228949,-0.9,suya,nigerian_savory,spicy,chewy
+happy,morning,0.5965026660164016,0.99,puff puff,nigerian_fried,sweet,soft
+nostalgic,midnight,0.199181519329092,0.2,chocolate,nigerian_sweet,sweet,soft
+sad,evening,0.4532145324702641,-0.1,chocolate,nigerian_sweet,sweet,soft
+bored,morning,0.6691517899008987,0.02,pretzels,savory_snacks,savory,crisp
+stressed,morning,0.265326275341614,-0.1,chocolate,nigerian_sweet,sweet,soft
+happy,afternoon,0.01758545184769833,0.61,dodo ikire,nigerian_sweet,sweet,soft
+happy,afternoon,0.07401329694647556,0.2,akara,nigerian_fried,savory,soft
+happy,afternoon,0.12468122924115477,0.2,dodo ikire,nigerian_sweet,sweet,soft
+happy,midnight,0.0010144615323921969,0.79,chin chin,nigerian_fried,sweet,crisp
+content,afternoon,0.20684581091219673,0.2,fruit,healthy_light,light,soft
+excited,morning,0.5540112102089544,0.2,coconut candy,nigerian_sweet,sweet,chewy
+bored,midnight,0.29324094990338095,-0.25,kilishi,nigerian_savory,spicy,chewy
+anxious,midnight,0.6474956355495567,-0.24,suya,nigerian_savory,spicy,chewy
+hungry,afternoon,1.0,0.3,boli,nigerian_savory,savory,soft
+nostalgic,evening,0.4009301851659923,0.2,fruit,healthy_light,light,soft
+sad,midnight,0.6934571885507914,-0.1,fruit,healthy_light,light,soft
+excited,afternoon,0.40023241494254375,0.2,chin chin,nigerian_fried,sweet,crisp
+happy,afternoon,0.06890861723922903,0.2,puff puff,nigerian_fried,sweet,soft
+happy,evening,0.3109047564856822,0.2,granola bar,healthy_light,light,crisp
+hungry,midnight,1.0,-0.3,popcorn,savory_snacks,savory,crisp
+hungry,evening,1.0,0.3,akara,nigerian_fried,savory,soft
+bored,midnight,0.5105795320324892,-0.3,fruit,healthy_light,light,soft
+excited,afternoon,0.7692902067466266,0.55,puff puff,nigerian_fried,sweet,soft
+content,evening,0.6614942777386896,0.2,granola bar,healthy_light,light,crisp
+stressed,midnight,0.11329379598929377,-0.8,coconut candy,nigerian_sweet,sweet,chewy
+bored,evening,0.3115477440621386,0.3,kokoro,savory_snacks,savory,crisp
+nostalgic,midnight,0.5376420324042895,0.4,coconut candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.38821339387409726,-0.1,pretzels,savory_snacks,savory,crisp
+sad,midnight,0.29029265359608275,-0.1,cheese,healthy_light,light,soft
+excited,afternoon,0.21555155704292403,0.2,cookies,nigerian_sweet,sweet,crisp
+tired,morning,0.06749671715080403,-0.1,yogurt,healthy_light,light,soft
+happy,evening,0.06517911817035352,0.2,veggies,healthy_light,light,crisp
+excited,morning,0.18998883388975987,0.96,chin chin,nigerian_fried,sweet,crisp
+sad,afternoon,0.5958005853039378,-0.66,chocolate,nigerian_sweet,sweet,soft
+bored,midnight,0.08417564419053579,0.3,kokoro,savory_snacks,savory,crisp
+content,evening,0.21893310793716614,0.96,granola bar,healthy_light,light,crisp
+happy,midnight,0.008091545328668648,0.2,chocolate,nigerian_sweet,sweet,soft
+sad,morning,0.3665638442017728,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+excited,morning,0.43327753823878956,0.26,akara,nigerian_fried,savory,soft
+tired,midnight,0.40297554767196503,-0.1,yogurt,healthy_light,light,soft
+nostalgic,midnight,0.5419706833919787,0.2,candy,nigerian_sweet,sweet,chewy
+nostalgic,afternoon,0.7118691152706487,0.2,coconut candy,nigerian_sweet,sweet,chewy
+stressed,evening,0.5863019623071187,-0.1,yogurt,healthy_light,light,soft
+content,afternoon,0.0705137947126337,0.2,granola bar,healthy_light,light,crisp
+hungry,midnight,1.0,0.12,pretzels,savory_snacks,savory,crisp
+nostalgic,morning,0.5473672601507893,0.76,roasted groundnuts,nigerian_savory,savory,crisp
+happy,evening,0.4181675632540809,0.2,chin chin,nigerian_fried,sweet,crisp
+anxious,evening,0.28178478005659624,-0.1,popcorn,savory_snacks,savory,crisp
+sad,midnight,0.619942777844764,-0.1,popcorn,savory_snacks,savory,crisp
+nostalgic,midnight,0.04659026465622018,0.2,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,midnight,0.6275245324867201,0.2,akara,nigerian_fried,savory,soft
+bored,morning,0.412153780910571,0.3,pretzels,savory_snacks,savory,crisp
+happy,evening,0.6993351371856548,0.42,dodo ikire,nigerian_sweet,sweet,soft
+anxious,afternoon,0.4762214728832437,-0.1,veggies,healthy_light,light,crisp
+happy,afternoon,0.48313635492978196,0.2,chin chin,nigerian_fried,sweet,crisp
+excited,midnight,0.15299370326089712,0.23,chin chin,nigerian_fried,sweet,crisp
+bored,midnight,0.552884696043081,0.3,veggies,healthy_light,light,crisp
+anxious,morning,0.43049680803185053,-0.86,granola bar,healthy_light,light,crisp
+anxious,afternoon,0.35926671414089073,-0.1,crackers,savory_snacks,savory,crisp
+content,morning,0.09365153038549012,0.2,puff puff,nigerian_fried,sweet,soft
+excited,evening,0.3246496737602173,0.94,chin chin,nigerian_fried,sweet,crisp
+excited,evening,0.33949762084290774,0.43,chin chin,nigerian_fried,sweet,crisp
+sad,morning,0.3109398005367604,-0.11,veggies,healthy_light,light,crisp
+happy,afternoon,0.6243769107041239,0.2,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.5267196763016335,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,morning,0.04186628584053027,0.3,kokoro,savory_snacks,savory,crisp
+excited,midnight,0.5044448247273563,0.49,puff puff,nigerian_fried,sweet,soft
+anxious,midnight,0.16943851990520217,-0.1,suya,nigerian_savory,spicy,chewy
+hungry,midnight,1.0,0.3,puff puff,nigerian_fried,sweet,soft
+nostalgic,morning,0.7213049835890881,0.85,chin chin,nigerian_fried,sweet,crisp
+bored,afternoon,0.39974658422632336,-0.3,crackers,savory_snacks,savory,crisp
+hungry,morning,1.0,0.3,plantain chips,nigerian_savory,savory,crisp
+happy,evening,0.5375809103416409,0.2,cookies,nigerian_sweet,sweet,crisp
+bored,morning,0.4685234683430394,-0.3,crackers,savory_snacks,savory,crisp
+sad,evening,0.001280950039223061,-0.43,veggies,healthy_light,light,crisp
+tired,afternoon,0.4615488986758718,-0.69,granola bar,healthy_light,light,crisp
+tired,morning,0.27291946065574646,-0.1,veggies,healthy_light,light,crisp
+stressed,morning,0.06230319127303261,-0.1,popcorn,savory_snacks,savory,crisp
+sad,midnight,0.40243499804561716,-0.1,cheese,healthy_light,light,soft
+excited,afternoon,0.3282429774981297,0.2,chin chin,nigerian_fried,sweet,crisp
+content,midnight,0.14177204550303363,0.39,veggies,healthy_light,light,crisp
+sad,evening,0.09400147216989865,-0.5,veggies,healthy_light,light,crisp
+excited,morning,0.7555709503056304,0.2,puff puff,nigerian_fried,sweet,soft
+bored,midnight,0.4294873172020947,0.3,kokoro,savory_snacks,savory,crisp
+content,morning,0.04567580840790715,0.35,granola bar,healthy_light,light,crisp
+tired,evening,0.4013593328051399,-0.1,chocolate,nigerian_sweet,sweet,soft
+excited,afternoon,0.6137365747592487,0.95,chin chin,nigerian_fried,sweet,crisp
+bored,afternoon,0.5596222963220575,-0.18,boli,nigerian_savory,savory,soft
+excited,afternoon,0.05544360481499897,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,afternoon,0.6050848437949075,-0.1,ice cream,nigerian_sweet,sweet,soft
+bored,evening,0.21046402393935262,0.3,roasted groundnuts,nigerian_savory,savory,crisp
+sad,evening,0.6919959809662211,-0.36,dodo ikire,nigerian_sweet,sweet,soft
+sad,afternoon,0.11982170534472214,-0.87,candy,nigerian_sweet,sweet,chewy
+sad,evening,0.27737500898872897,-0.1,granola bar,healthy_light,light,crisp
+bored,afternoon,0.31564090342509854,0.3,crackers,savory_snacks,savory,crisp
+nostalgic,evening,0.050602727118943674,0.2,candy,nigerian_sweet,sweet,chewy
+bored,afternoon,0.03474668578850997,-0.3,kokoro,savory_snacks,savory,crisp
+happy,morning,0.5553053231809896,0.2,puff puff,nigerian_fried,sweet,soft
+excited,midnight,0.6391588496573649,0.61,chin chin,nigerian_fried,sweet,crisp
+bored,afternoon,0.5927065653775884,0.3,kokoro,savory_snacks,savory,crisp
+bored,afternoon,0.01988761273263533,-0.3,popcorn,savory_snacks,savory,crisp
+nostalgic,morning,0.7439374105165318,0.2,ice cream,nigerian_sweet,sweet,soft
+happy,morning,0.3509342176252604,0.2,chin chin,nigerian_fried,sweet,crisp
+stressed,midnight,0.350225181839696,-0.54,cookies,nigerian_sweet,sweet,crisp
+happy,evening,0.5965869869450872,0.2,akara,nigerian_fried,savory,soft
+happy,morning,0.7692349783048877,0.61,chin chin,nigerian_fried,sweet,crisp
+nostalgic,midnight,0.12400693393340366,0.33,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,midnight,0.7507581123283261,0.2,puff puff,nigerian_fried,sweet,soft
+nostalgic,morning,0.5898983776245371,0.76,cookies,nigerian_sweet,sweet,crisp
+hungry,morning,1.0,-0.3,kuli kuli,nigerian_savory,spicy,crisp
+happy,evening,0.7703133073424301,0.2,akara,nigerian_fried,savory,soft
+excited,morning,0.22436405180804428,0.2,chin chin,nigerian_fried,sweet,crisp
+content,morning,0.4478365777438114,0.2,yogurt,healthy_light,light,soft
+bored,morning,0.6960199404161326,0.27,plantain chips,nigerian_savory,savory,crisp
+bored,afternoon,0.012018033584453037,-0.3,chips,savory_snacks,savory,crisp
+sad,morning,0.40250684379865587,-0.37,ice cream,nigerian_sweet,sweet,soft
+nostalgic,midnight,0.6895042648946058,0.2,dodo ikire,nigerian_sweet,sweet,soft
+happy,morning,0.2535304110548355,0.2,akara,nigerian_fried,savory,soft
+bored,evening,0.11844780759106373,-0.3,crackers,savory_snacks,savory,crisp
+sad,morning,0.34660074584722234,-0.1,chocolate,nigerian_sweet,sweet,soft
+bored,evening,0.1437255726694768,-0.3,boli,nigerian_savory,savory,soft
+content,afternoon,0.10470491084286078,0.2,cheese,healthy_light,light,soft
+anxious,evening,0.6401221187134005,-0.1,kokoro,savory_snacks,savory,crisp
+stressed,afternoon,0.15779413293361344,-0.57,chocolate,nigerian_sweet,sweet,soft
+nostalgic,morning,0.3100997001619675,0.2,yogurt,healthy_light,light,soft
+sad,afternoon,0.49529712003735704,-0.68,cheese,healthy_light,light,soft
+stressed,afternoon,0.596193188937953,-0.1,ice cream,nigerian_sweet,sweet,soft
+bored,morning,0.47920883537085407,-0.3,kokoro,savory_snacks,savory,crisp
+nostalgic,morning,0.4819528878891542,0.2,cookies,nigerian_sweet,sweet,crisp
+hungry,evening,1.0,0.27,akara,nigerian_fried,savory,soft
+hungry,afternoon,1.0,-0.3,kilishi,nigerian_savory,spicy,chewy
+bored,afternoon,0.46245768160993006,0.3,chips,savory_snacks,savory,crisp
+tired,afternoon,0.26288347158387415,-0.43,fruit,healthy_light,light,soft
+excited,afternoon,0.21247007864588793,0.53,chin chin,nigerian_fried,sweet,crisp
+excited,afternoon,0.003907572816201555,0.87,akara,nigerian_fried,savory,soft
+excited,evening,0.3684660405557333,0.8,chocolate,nigerian_sweet,sweet,soft
+excited,afternoon,0.08930874351684928,0.2,boli,nigerian_savory,savory,soft
+excited,morning,0.159657292716751,0.2,chin chin,nigerian_fried,sweet,crisp
+happy,morning,0.21926655651279658,0.6,akara,nigerian_fried,savory,soft
+happy,midnight,0.16045172767045593,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,evening,0.42496083745567703,-0.8,cheese,healthy_light,light,soft
+stressed,midnight,0.4527108840814072,-0.1,kuli kuli,nigerian_savory,spicy,crisp
+tired,morning,0.5775865175613158,-0.1,veggies,healthy_light,light,crisp
+stressed,midnight,0.7580989268165337,-0.1,cookies,nigerian_sweet,sweet,crisp
+excited,afternoon,0.24451879746894678,0.2,chin chin,nigerian_fried,sweet,crisp
+happy,morning,0.6106359295978253,0.2,akara,nigerian_fried,savory,soft
+happy,afternoon,0.19435628934963517,0.82,puff puff,nigerian_fried,sweet,soft
+nostalgic,afternoon,0.43261250504043436,0.35,ice cream,nigerian_sweet,sweet,soft
+excited,morning,0.7751742896658398,0.87,plantain chips,nigerian_savory,savory,crisp
+anxious,afternoon,0.28974528223532126,-0.1,popcorn,savory_snacks,savory,crisp
+tired,afternoon,0.5141023481687453,-0.1,popcorn,savory_snacks,savory,crisp
+sad,midnight,0.6169944592265425,-0.92,candy,nigerian_sweet,sweet,chewy
+nostalgic,afternoon,0.26056176926216185,0.2,coconut candy,nigerian_sweet,sweet,chewy
+content,afternoon,0.024854504195565053,0.89,dodo ikire,nigerian_sweet,sweet,soft
+happy,afternoon,0.7170252417310304,0.2,akara,nigerian_fried,savory,soft
+content,morning,0.031039563783109972,0.2,granola bar,healthy_light,light,crisp
+sad,morning,0.2768868001315261,-0.1,kilishi,nigerian_savory,spicy,chewy
+stressed,morning,0.6447246740267532,-0.44,candy,nigerian_sweet,sweet,chewy
+nostalgic,morning,0.7220336918743625,0.2,popcorn,savory_snacks,savory,crisp
+anxious,afternoon,0.7676737180873872,-0.1,pretzels,savory_snacks,savory,crisp
+happy,afternoon,0.4935078047721453,0.2,akara,nigerian_fried,savory,soft
+bored,afternoon,0.469414326275673,-0.11,popcorn,savory_snacks,savory,crisp
+sad,morning,0.6903712371803804,-0.47,candy,nigerian_sweet,sweet,chewy
+happy,afternoon,0.7461184804339829,0.2,coconut candy,nigerian_sweet,sweet,chewy
+stressed,morning,0.3580559604063777,-0.1,chocolate,nigerian_sweet,sweet,soft
+bored,afternoon,0.09579743080042552,0.3,kokoro,savory_snacks,savory,crisp
+nostalgic,midnight,0.01213935923713736,0.2,candy,nigerian_sweet,sweet,chewy
+excited,evening,0.02743832104264934,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,midnight,0.015557006735637292,-0.1,cookies,nigerian_sweet,sweet,crisp
+happy,evening,0.5099236898089469,0.2,chocolate,nigerian_sweet,sweet,soft
+content,evening,0.36805129339804943,0.2,puff puff,nigerian_fried,sweet,soft
+excited,afternoon,0.24787769340262394,0.2,akara,nigerian_fried,savory,soft
+anxious,morning,0.03453623269035316,-0.38,kokoro,savory_snacks,savory,crisp
+anxious,evening,0.7117991922363041,-0.98,roasted groundnuts,nigerian_savory,savory,crisp
+tired,midnight,0.25019289295072017,-0.1,veggies,healthy_light,light,crisp
+hungry,midnight,1.0,0.3,popcorn,savory_snacks,savory,crisp
+stressed,midnight,0.6301414722686034,-0.38,coconut candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.7259705410771404,-0.76,kokoro,savory_snacks,savory,crisp
+sad,afternoon,0.6125218693641465,-0.86,dodo ikire,nigerian_sweet,sweet,soft
+content,afternoon,0.3686949882157216,0.34,boli,nigerian_savory,savory,soft
+anxious,morning,0.1579590536729054,-0.1,kokoro,savory_snacks,savory,crisp
+anxious,morning,0.6197383497454387,-0.47,granola bar,healthy_light,light,crisp
+content,afternoon,0.4045250859441756,0.2,crackers,savory_snacks,savory,crisp
+stressed,morning,0.7121765364436449,-0.46,pretzels,savory_snacks,savory,crisp
+excited,midnight,0.23017474759202347,0.47,akara,nigerian_fried,savory,soft
+excited,evening,0.5688974536122288,0.2,plantain chips,nigerian_savory,savory,crisp
+bored,midnight,0.7239695041359312,0.3,kokoro,savory_snacks,savory,crisp
+sad,midnight,0.38084536172084943,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+excited,morning,0.7851580763433035,0.2,puff puff,nigerian_fried,sweet,soft
+excited,evening,0.4740545462118615,0.2,puff puff,nigerian_fried,sweet,soft
+tired,morning,0.6059400826986598,-0.1,cheese,healthy_light,light,soft
+bored,morning,0.6129256812662224,0.3,yogurt,healthy_light,light,soft
+happy,afternoon,0.06619064278965725,0.83,puff puff,nigerian_fried,sweet,soft
+sad,evening,0.30653157484730065,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+bored,midnight,0.6834064492431516,0.3,suya,nigerian_savory,spicy,chewy
+happy,evening,0.7298036488809245,0.89,chin chin,nigerian_fried,sweet,crisp
+bored,afternoon,0.20414578301938457,0.3,pretzels,savory_snacks,savory,crisp
+bored,evening,0.007448232609882944,-0.12,plantain chips,nigerian_savory,savory,crisp
+bored,midnight,0.11425928838950608,0.3,kilishi,nigerian_savory,spicy,chewy
+hungry,afternoon,1.0,0.3,boli,nigerian_savory,savory,soft
+bored,afternoon,0.04480184715120013,-0.04,popcorn,savory_snacks,savory,crisp
+bored,morning,0.7314723541331869,-0.3,yogurt,healthy_light,light,soft
+tired,midnight,0.7857081475489204,-0.1,granola bar,healthy_light,light,crisp
+bored,morning,0.5359627926873745,-0.3,chips,savory_snacks,savory,crisp
+stressed,afternoon,0.35836295774494853,-0.11,chips,savory_snacks,savory,crisp
+happy,midnight,0.018746364293910567,0.2,dodo ikire,nigerian_sweet,sweet,soft
+happy,morning,0.7940781748653283,0.32,chin chin,nigerian_fried,sweet,crisp
+nostalgic,morning,0.16625907316706867,0.2,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,morning,0.2728161378048271,0.92,coconut candy,nigerian_sweet,sweet,chewy
+tired,afternoon,0.7826123708235793,-0.68,yogurt,healthy_light,light,soft
+tired,midnight,0.5043340947050835,-0.41,granola bar,healthy_light,light,crisp
+happy,afternoon,0.6663953108424003,0.2,coconut candy,nigerian_sweet,sweet,chewy
+hungry,evening,1.0,0.3,suya,nigerian_savory,spicy,chewy
+anxious,midnight,0.031433556120553964,-0.1,kokoro,savory_snacks,savory,crisp
+stressed,morning,0.48615672279808647,-0.19,cookies,nigerian_sweet,sweet,crisp
+anxious,morning,0.5905206038733518,-0.62,popcorn,savory_snacks,savory,crisp
+nostalgic,morning,0.04499735545213799,0.2,granola bar,healthy_light,light,crisp
+nostalgic,midnight,0.5233886239562543,0.2,yogurt,healthy_light,light,soft
+anxious,evening,0.33986282654152045,-0.74,boli,nigerian_savory,savory,soft
+anxious,midnight,0.7525119993488911,-0.34,plantain chips,nigerian_savory,savory,crisp
+excited,afternoon,0.060794805052665435,0.36,akara,nigerian_fried,savory,soft
+anxious,evening,0.5635949091293478,-0.1,kokoro,savory_snacks,savory,crisp
+excited,afternoon,0.12331801946906734,0.71,chin chin,nigerian_fried,sweet,crisp
+anxious,afternoon,0.5066151338699911,-0.8,chips,savory_snacks,savory,crisp
+happy,evening,0.29021370650998074,0.2,akara,nigerian_fried,savory,soft
+excited,afternoon,0.7896800687392933,0.2,plantain chips,nigerian_savory,savory,crisp
+happy,midnight,0.019364835538023862,0.2,coconut candy,nigerian_sweet,sweet,chewy
+stressed,afternoon,0.42926255202289626,-0.44,kuli kuli,nigerian_savory,spicy,crisp
+nostalgic,afternoon,0.5517108157271249,0.2,coconut candy,nigerian_sweet,sweet,chewy
+excited,afternoon,0.29088915935205106,0.2,akara,nigerian_fried,savory,soft
+stressed,morning,0.07161615743747385,-0.13,candy,nigerian_sweet,sweet,chewy
+bored,midnight,0.4347246817586113,-0.3,suya,nigerian_savory,spicy,chewy
+anxious,midnight,0.35508479291245554,-0.62,chips,savory_snacks,savory,crisp
+tired,evening,0.08049598177807207,-0.38,granola bar,healthy_light,light,crisp
+bored,evening,0.14672427888779174,-0.14,kokoro,savory_snacks,savory,crisp
+excited,evening,0.18202710154917068,0.2,puff puff,nigerian_fried,sweet,soft
+happy,afternoon,0.6028881051823898,0.91,ice cream,nigerian_sweet,sweet,soft
+content,midnight,0.5206623603914625,0.2,veggies,healthy_light,light,crisp
+bored,midnight,0.3977926783045148,-0.3,kokoro,savory_snacks,savory,crisp
+hungry,afternoon,1.0,-0.3,plantain chips,nigerian_savory,savory,crisp
+nostalgic,afternoon,0.7211574636307037,0.2,ice cream,nigerian_sweet,sweet,soft
+content,evening,0.26731441790708976,0.64,akara,nigerian_fried,savory,soft
+excited,afternoon,0.5590669363568262,0.71,puff puff,nigerian_fried,sweet,soft
+happy,evening,0.27437321576006257,0.2,puff puff,nigerian_fried,sweet,soft
+sad,morning,0.7021703685575517,-0.1,cheese,healthy_light,light,soft
+nostalgic,evening,0.3178330343567246,0.2,ice cream,nigerian_sweet,sweet,soft
+happy,evening,0.40289595037888115,0.73,veggies,healthy_light,light,crisp
+excited,morning,0.10007112786912283,0.2,akara,nigerian_fried,savory,soft
+sad,afternoon,0.7069867110651096,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+excited,midnight,0.0902865157702098,0.22,kuli kuli,nigerian_savory,spicy,crisp
+stressed,afternoon,0.6271428707622401,-0.35,candy,nigerian_sweet,sweet,chewy
+hungry,afternoon,1.0,-0.29,boli,nigerian_savory,savory,soft
+excited,morning,0.3420045629706929,0.2,akara,nigerian_fried,savory,soft
+happy,morning,0.6723542004368162,0.4,chocolate,nigerian_sweet,sweet,soft
+sad,morning,0.2339320671073984,-0.1,chocolate,nigerian_sweet,sweet,soft
+anxious,morning,0.037347855919419005,-0.1,kokoro,savory_snacks,savory,crisp
+anxious,evening,0.4581462526853516,-0.1,pretzels,savory_snacks,savory,crisp
+bored,morning,0.1509057971392599,0.02,kokoro,savory_snacks,savory,crisp
+anxious,evening,0.5046808309160894,-0.3,popcorn,savory_snacks,savory,crisp
+bored,midnight,0.04412527248142837,0.3,kuli kuli,nigerian_savory,spicy,crisp
+excited,afternoon,0.5653748616356481,0.2,chin chin,nigerian_fried,sweet,crisp
+nostalgic,evening,0.733314482155133,0.41,chocolate,nigerian_sweet,sweet,soft
+happy,morning,0.5645274670991572,0.2,chin chin,nigerian_fried,sweet,crisp
+content,morning,0.05934095647544977,0.2,granola bar,healthy_light,light,crisp
+nostalgic,afternoon,0.7095536887062939,0.62,dodo ikire,nigerian_sweet,sweet,soft
+anxious,evening,0.5344155620100479,-0.65,kokoro,savory_snacks,savory,crisp
+bored,morning,0.6781122636074042,0.3,kokoro,savory_snacks,savory,crisp
+tired,morning,0.1430728548062395,-0.1,yogurt,healthy_light,light,soft
+sad,midnight,0.04047748294126539,-0.1,fruit,healthy_light,light,soft
+anxious,midnight,0.1257885320753868,-0.1,crackers,savory_snacks,savory,crisp
+nostalgic,morning,0.3248879844020463,0.2,coconut candy,nigerian_sweet,sweet,chewy
+excited,afternoon,0.7868778397910194,0.33,chin chin,nigerian_fried,sweet,crisp
+tired,evening,0.4456054450505029,-0.1,fruit,healthy_light,light,soft
+sad,morning,0.13177419755438474,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+bored,afternoon,0.6232043151392301,-0.3,pretzels,savory_snacks,savory,crisp
+content,morning,0.6026503455034057,0.43,veggies,healthy_light,light,crisp
+tired,evening,0.5809515870896841,-0.1,popcorn,savory_snacks,savory,crisp
+anxious,evening,0.514241640129666,-0.1,popcorn,savory_snacks,savory,crisp
+content,morning,0.25780831505558777,0.95,veggies,healthy_light,light,crisp
+nostalgic,morning,0.7717523830627688,0.2,akara,nigerian_fried,savory,soft
+excited,evening,0.44442005445017574,0.48,chin chin,nigerian_fried,sweet,crisp
+stressed,midnight,0.24499139618272034,-0.1,roasted groundnuts,nigerian_savory,savory,crisp
+bored,midnight,0.46591640672680246,-0.3,kokoro,savory_snacks,savory,crisp
+nostalgic,morning,0.22180673307934892,0.99,candy,nigerian_sweet,sweet,chewy
+sad,midnight,0.6366293849412017,-0.32,puff puff,nigerian_fried,sweet,soft
+happy,morning,0.026741226474577308,0.2,puff puff,nigerian_fried,sweet,soft
+happy,morning,0.11566376819166778,0.39,puff puff,nigerian_fried,sweet,soft
+happy,midnight,0.744666291340646,0.2,ice cream,nigerian_sweet,sweet,soft
+happy,midnight,0.3372433985744274,0.42,akara,nigerian_fried,savory,soft
+stressed,evening,0.0006316088745750292,-0.1,boli,nigerian_savory,savory,soft
+nostalgic,evening,0.5815823356227448,0.2,akara,nigerian_fried,savory,soft
+happy,evening,0.24098503583512657,0.2,chin chin,nigerian_fried,sweet,crisp
+anxious,afternoon,0.7371354679010622,-0.74,kokoro,savory_snacks,savory,crisp
+nostalgic,afternoon,0.19776485899110147,0.5,ice cream,nigerian_sweet,sweet,soft
+nostalgic,midnight,0.011627308212792543,0.2,ice cream,nigerian_sweet,sweet,soft
+nostalgic,evening,0.4997605355252864,0.2,coconut candy,nigerian_sweet,sweet,chewy
+anxious,afternoon,0.3759827477262356,-0.1,kokoro,savory_snacks,savory,crisp
+stressed,afternoon,0.27283829826449885,-0.1,pretzels,savory_snacks,savory,crisp
+excited,midnight,0.23063664364340505,0.28,chin chin,nigerian_fried,sweet,crisp
+sad,afternoon,0.7393747478741282,-0.95,candy,nigerian_sweet,sweet,chewy
+stressed,midnight,0.4828649976984501,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,morning,0.18686434737788737,0.2,chin chin,nigerian_fried,sweet,crisp
+hungry,morning,1.0,-0.3,roasted groundnuts,nigerian_savory,savory,crisp
+stressed,afternoon,0.2055618396067759,-0.96,coconut candy,nigerian_sweet,sweet,chewy
+happy,morning,0.36760181325625396,0.2,puff puff,nigerian_fried,sweet,soft
+anxious,evening,0.45344488400837285,-0.29,popcorn,savory_snacks,savory,crisp
+anxious,morning,0.683792494873583,-0.1,plantain chips,nigerian_savory,savory,crisp
+sad,midnight,0.1603752382130872,-0.17,ice cream,nigerian_sweet,sweet,soft
+stressed,morning,0.16597555044710177,-0.1,pretzels,savory_snacks,savory,crisp
+sad,evening,0.35160622435804145,-0.87,cookies,nigerian_sweet,sweet,crisp
+tired,evening,0.693141922319005,-0.93,fruit,healthy_light,light,soft
+tired,evening,0.6322079231533551,-0.41,veggies,healthy_light,light,crisp
+sad,morning,0.5291582532904809,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+happy,midnight,0.5018067205087826,0.2,fruit,healthy_light,light,soft
+bored,evening,0.23820332293779548,0.2,kokoro,savory_snacks,savory,crisp
+bored,morning,0.4284175328687709,0.09,popcorn,savory_snacks,savory,crisp
+tired,midnight,0.33279168638019335,-0.1,candy,nigerian_sweet,sweet,chewy
+tired,morning,0.6581183417551115,-0.58,yogurt,healthy_light,light,soft
+sad,midnight,0.6604246586773996,-0.45,akara,nigerian_fried,savory,soft
+excited,evening,0.5648464917104247,0.2,akara,nigerian_fried,savory,soft
+tired,evening,0.625349678213118,-0.1,fruit,healthy_light,light,soft
+bored,midnight,0.6368548203175499,-0.21,kokoro,savory_snacks,savory,crisp
+sad,evening,0.3457705500680188,-0.1,cookies,nigerian_sweet,sweet,crisp
+sad,morning,0.09100956704363955,-0.18,cookies,nigerian_sweet,sweet,crisp
+stressed,midnight,0.25280377829311507,-0.37,coconut candy,nigerian_sweet,sweet,chewy
+tired,midnight,0.13506688532205607,-0.1,veggies,healthy_light,light,crisp
+bored,afternoon,0.3560853309743953,-0.3,kokoro,savory_snacks,savory,crisp
+nostalgic,midnight,0.29081156589541335,0.28,popcorn,savory_snacks,savory,crisp
+sad,midnight,0.7750531531867013,-0.1,candy,nigerian_sweet,sweet,chewy
+bored,evening,0.05061013745653984,0.21,roasted groundnuts,nigerian_savory,savory,crisp
+excited,afternoon,0.7039436509106989,1.0,akara,nigerian_fried,savory,soft
+tired,midnight,0.10318312634173221,-0.1,fruit,healthy_light,light,soft
+bored,afternoon,0.4833045030852281,0.3,chips,savory_snacks,savory,crisp
+bored,evening,0.7246795119994447,0.03,roasted groundnuts,nigerian_savory,savory,crisp
+content,afternoon,0.21641742413747728,0.61,granola bar,healthy_light,light,crisp
+sad,midnight,0.3509373574424391,-0.1,chocolate,nigerian_sweet,sweet,soft
+content,morning,0.10958577784762227,0.37,granola bar,healthy_light,light,crisp
+tired,afternoon,0.21852769629595611,-0.58,cheese,healthy_light,light,soft
+happy,afternoon,0.24279698543121217,0.2,fruit,healthy_light,light,soft
+sad,midnight,0.6052308667962454,-0.49,coconut candy,nigerian_sweet,sweet,chewy
+content,midnight,0.6744295575421626,0.2,veggies,healthy_light,light,crisp
+bored,afternoon,0.4941815392494355,-0.09,pretzels,savory_snacks,savory,crisp
+content,midnight,0.47132510191503063,0.2,yogurt,healthy_light,light,soft
+happy,morning,0.4195490766861995,0.61,puff puff,nigerian_fried,sweet,soft
+stressed,morning,0.6995316433571829,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+content,evening,0.7784362796113289,0.96,coconut candy,nigerian_sweet,sweet,chewy
+anxious,midnight,0.5953013485714962,-0.1,pretzels,savory_snacks,savory,crisp
+anxious,afternoon,0.10184950299738,-0.65,granola bar,healthy_light,light,crisp
+content,morning,0.2866900285262628,0.2,yogurt,healthy_light,light,soft
+nostalgic,midnight,0.2056948031989556,0.9,akara,nigerian_fried,savory,soft
+happy,evening,0.19046817024569407,0.64,chin chin,nigerian_fried,sweet,crisp
+happy,morning,0.5861787323306452,0.37,dodo ikire,nigerian_sweet,sweet,soft
+tired,evening,0.4263011477573979,-0.1,yogurt,healthy_light,light,soft
+content,afternoon,0.08441091712096088,0.37,cheese,healthy_light,light,soft
+anxious,afternoon,0.1837618522897075,-0.52,popcorn,savory_snacks,savory,crisp
+tired,afternoon,0.42584349107853303,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+sad,morning,0.19805160651342774,-0.1,chocolate,nigerian_sweet,sweet,soft
+hungry,midnight,1.0,0.21,plantain chips,nigerian_savory,savory,crisp
+anxious,morning,0.5478185266233588,-0.75,chips,savory_snacks,savory,crisp
+excited,midnight,0.22437057936372196,0.46,chin chin,nigerian_fried,sweet,crisp
+excited,afternoon,0.7914725102716991,0.36,chips,savory_snacks,savory,crisp
+bored,afternoon,0.1015488461393411,0.3,popcorn,savory_snacks,savory,crisp
+content,afternoon,0.4489209173375649,0.2,fruit,healthy_light,light,soft
+bored,morning,0.7710541289505444,0.08,chips,savory_snacks,savory,crisp
+anxious,evening,0.028965809189907966,-0.1,chips,savory_snacks,savory,crisp
+bored,evening,0.2567483506555523,-0.3,kokoro,savory_snacks,savory,crisp
+happy,midnight,0.08447871682091278,0.41,akara,nigerian_fried,savory,soft
+happy,afternoon,0.6266320739510931,0.93,puff puff,nigerian_fried,sweet,soft
+excited,evening,0.07300132729523848,0.2,suya,nigerian_savory,spicy,chewy
+hungry,morning,1.0,0.3,pretzels,savory_snacks,savory,crisp
+bored,midnight,0.7277814703473576,0.3,suya,nigerian_savory,spicy,chewy
+happy,evening,0.0054305392188718216,0.2,akara,nigerian_fried,savory,soft
+bored,morning,0.41883327508566537,-0.3,popcorn,savory_snacks,savory,crisp
+happy,afternoon,0.315992216439226,0.2,puff puff,nigerian_fried,sweet,soft
+bored,midnight,0.4659207718943519,0.3,crackers,savory_snacks,savory,crisp
+happy,morning,0.7495594031269563,0.2,chin chin,nigerian_fried,sweet,crisp
+happy,evening,0.3740711587990134,0.75,ice cream,nigerian_sweet,sweet,soft
+nostalgic,morning,0.4462481005883476,0.2,candy,nigerian_sweet,sweet,chewy
+bored,midnight,0.5812835498654952,0.3,popcorn,savory_snacks,savory,crisp
+stressed,evening,0.27991637091791893,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+tired,afternoon,0.003603584784230929,-0.37,yogurt,healthy_light,light,soft
+happy,midnight,0.43841719778330807,0.41,candy,nigerian_sweet,sweet,chewy
+stressed,morning,0.26245574758852624,-0.1,chocolate,nigerian_sweet,sweet,soft
+anxious,evening,0.17290864984873658,-0.1,granola bar,healthy_light,light,crisp
+nostalgic,midnight,0.5729190231005558,0.2,ice cream,nigerian_sweet,sweet,soft
+happy,morning,0.7848235912920609,0.23,coconut candy,nigerian_sweet,sweet,chewy
+stressed,afternoon,0.7212044955610426,-0.93,candy,nigerian_sweet,sweet,chewy
+tired,morning,0.4891958821753593,-0.1,fruit,healthy_light,light,soft
+happy,afternoon,0.7085615308323822,0.3,chin chin,nigerian_fried,sweet,crisp
+happy,morning,0.021157522078133973,0.2,cheese,healthy_light,light,soft
+bored,afternoon,0.6374785414176986,-0.3,granola bar,healthy_light,light,crisp
+nostalgic,morning,0.7755515005407028,0.39,chin chin,nigerian_fried,sweet,crisp
+content,midnight,0.6641540504556571,0.91,yogurt,healthy_light,light,soft
+happy,afternoon,0.20722811528267773,0.42,chin chin,nigerian_fried,sweet,crisp
+stressed,afternoon,0.7945232828721285,-0.1,candy,nigerian_sweet,sweet,chewy
+hungry,afternoon,1.0,-0.3,plantain chips,nigerian_savory,savory,crisp
+bored,evening,0.06292964665140692,-0.3,suya,nigerian_savory,spicy,chewy
+stressed,midnight,0.1648590239497402,-0.12,kilishi,nigerian_savory,spicy,chewy
+happy,midnight,0.44689786949295157,0.81,chin chin,nigerian_fried,sweet,crisp
+sad,morning,0.34544408062872967,-0.1,ice cream,nigerian_sweet,sweet,soft
+excited,afternoon,0.4863674806658736,0.2,chin chin,nigerian_fried,sweet,crisp
+happy,afternoon,0.7744580023277428,0.51,coconut candy,nigerian_sweet,sweet,chewy
+excited,midnight,0.3490411390664141,0.92,plantain chips,nigerian_savory,savory,crisp
+content,midnight,0.25380417315976,0.2,fruit,healthy_light,light,soft
+stressed,midnight,0.674642372921729,-0.28,boli,nigerian_savory,savory,soft
+anxious,midnight,0.35786594133295024,-0.1,chips,savory_snacks,savory,crisp
+stressed,midnight,0.5513952159696185,-0.1,chocolate,nigerian_sweet,sweet,soft
+bored,evening,0.18146968186039614,0.15,pretzels,savory_snacks,savory,crisp
+stressed,evening,0.053345840290419666,-0.1,cookies,nigerian_sweet,sweet,crisp
+anxious,morning,0.47603707593900896,-0.82,chips,savory_snacks,savory,crisp
+hungry,midnight,1.0,-0.3,puff puff,nigerian_fried,sweet,soft
+sad,morning,0.68669870380885,-0.1,ice cream,nigerian_sweet,sweet,soft
+tired,afternoon,0.2850933102040453,-0.1,veggies,healthy_light,light,crisp
+happy,midnight,0.30396796180780206,0.2,yogurt,healthy_light,light,soft
+excited,midnight,0.764194214629875,0.78,chin chin,nigerian_fried,sweet,crisp
+anxious,midnight,0.45746301694615277,-0.49,chips,savory_snacks,savory,crisp
+happy,midnight,0.21467183301972598,0.4,akara,nigerian_fried,savory,soft
+happy,afternoon,0.47016258267318123,0.2,ice cream,nigerian_sweet,sweet,soft
+stressed,evening,0.2670519293673899,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+anxious,morning,0.5232184621270084,-0.17,kilishi,nigerian_savory,spicy,chewy
+tired,midnight,0.2477825469820255,-0.52,kokoro,savory_snacks,savory,crisp
+tired,evening,0.35323783110386436,-0.1,candy,nigerian_sweet,sweet,chewy
+sad,morning,0.16302082735285098,-0.1,cookies,nigerian_sweet,sweet,crisp
+excited,afternoon,0.7964833614428048,0.2,puff puff,nigerian_fried,sweet,soft
+bored,afternoon,0.07645955813008093,-0.3,suya,nigerian_savory,spicy,chewy
+nostalgic,evening,0.5639289061850689,0.2,candy,nigerian_sweet,sweet,chewy
+hungry,afternoon,1.0,-0.02,plantain chips,nigerian_savory,savory,crisp
+bored,evening,0.6126106568380321,-0.3,popcorn,savory_snacks,savory,crisp
+stressed,midnight,0.6393904753627666,-0.1,kokoro,savory_snacks,savory,crisp
+bored,afternoon,0.7954303886088473,0.11,plantain chips,nigerian_savory,savory,crisp
+sad,evening,0.4869783537425731,-0.1,cookies,nigerian_sweet,sweet,crisp
+content,morning,0.4769461355219015,0.83,dodo ikire,nigerian_sweet,sweet,soft
+anxious,midnight,0.6857543628694446,-0.9,plantain chips,nigerian_savory,savory,crisp
+excited,evening,0.36585328791425625,0.69,puff puff,nigerian_fried,sweet,soft
+stressed,afternoon,0.08623379789243302,-0.1,candy,nigerian_sweet,sweet,chewy
+sad,morning,0.5081255910911481,-0.1,puff puff,nigerian_fried,sweet,soft
+content,morning,0.12173968150553433,0.2,ice cream,nigerian_sweet,sweet,soft
+anxious,morning,0.4686816979465347,-0.1,crackers,savory_snacks,savory,crisp
+sad,afternoon,0.6526842045965524,-0.1,fruit,healthy_light,light,soft
+hungry,morning,1.0,-0.3,plantain chips,nigerian_savory,savory,crisp
+sad,midnight,0.45041035453733047,-0.29,dodo ikire,nigerian_sweet,sweet,soft
+anxious,midnight,0.717935240062539,-0.1,pretzels,savory_snacks,savory,crisp
+excited,afternoon,0.39025826990550483,0.2,akara,nigerian_fried,savory,soft
+sad,afternoon,0.22949349998623517,-0.46,fruit,healthy_light,light,soft
+anxious,afternoon,0.5274625023872012,-0.41,popcorn,savory_snacks,savory,crisp
+bored,midnight,0.17722172152189364,-0.07,kokoro,savory_snacks,savory,crisp
+content,morning,0.4303356210633945,0.2,akara,nigerian_fried,savory,soft
+tired,morning,0.5922504246751611,-0.1,yogurt,healthy_light,light,soft
+excited,evening,0.0010844195983590766,0.2,kilishi,nigerian_savory,spicy,chewy
+nostalgic,morning,0.3264160730280649,0.37,candy,nigerian_sweet,sweet,chewy
+nostalgic,evening,0.26344425029167945,0.2,ice cream,nigerian_sweet,sweet,soft
+sad,afternoon,0.7666621491851094,-0.8,chin chin,nigerian_fried,sweet,crisp
+hungry,evening,1.0,0.16,crackers,savory_snacks,savory,crisp
+content,midnight,0.22162035909569947,0.72,cookies,nigerian_sweet,sweet,crisp
+anxious,afternoon,0.7156782986807775,-0.1,cheese,healthy_light,light,soft
+tired,evening,0.3656191617541004,-0.1,cheese,healthy_light,light,soft
+sad,morning,0.4373005167545969,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,morning,0.5748829925521565,0.2,plantain chips,nigerian_savory,savory,crisp
+stressed,afternoon,0.08967880828060704,-0.12,ice cream,nigerian_sweet,sweet,soft
+sad,afternoon,0.7043375222988839,-0.13,coconut candy,nigerian_sweet,sweet,chewy
+excited,midnight,0.7688167486121706,0.2,puff puff,nigerian_fried,sweet,soft
+happy,evening,0.7577364934747153,0.2,chin chin,nigerian_fried,sweet,crisp
+happy,midnight,0.39976453866772427,0.2,puff puff,nigerian_fried,sweet,soft
+nostalgic,morning,0.6465256392193702,0.2,chocolate,nigerian_sweet,sweet,soft
+tired,midnight,0.5188216214593623,-0.38,veggies,healthy_light,light,crisp
+happy,morning,0.21104485995708605,0.2,puff puff,nigerian_fried,sweet,soft
+hungry,midnight,1.0,0.3,plantain chips,nigerian_savory,savory,crisp
+bored,afternoon,0.2583829866910464,-0.3,pretzels,savory_snacks,savory,crisp
+anxious,evening,0.5392467622029566,-0.57,pretzels,savory_snacks,savory,crisp
+anxious,midnight,0.3412735208435147,-0.1,pretzels,savory_snacks,savory,crisp
+anxious,morning,0.7205328672869027,-0.1,crackers,savory_snacks,savory,crisp
+anxious,afternoon,0.6925817896854349,-0.1,popcorn,savory_snacks,savory,crisp
+sad,midnight,0.3397432099347668,-0.69,veggies,healthy_light,light,crisp
+hungry,morning,1.0,0.3,suya,nigerian_savory,spicy,chewy
+happy,morning,0.23004276513673994,0.2,chin chin,nigerian_fried,sweet,crisp
+anxious,midnight,0.40379158030428136,-0.7,suya,nigerian_savory,spicy,chewy
+happy,afternoon,0.5983389210491338,0.2,cookies,nigerian_sweet,sweet,crisp
+sad,evening,0.1843958698812167,-0.34,chocolate,nigerian_sweet,sweet,soft
+happy,morning,0.6448093683907876,0.2,puff puff,nigerian_fried,sweet,soft
+happy,morning,0.10174495137350954,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,afternoon,0.029641594954794216,0.07,popcorn,savory_snacks,savory,crisp
+happy,afternoon,0.6182991491054826,0.2,akara,nigerian_fried,savory,soft
+bored,morning,0.3486786876108866,-0.1,kuli kuli,nigerian_savory,spicy,crisp
+stressed,evening,0.5345445295663241,-0.1,suya,nigerian_savory,spicy,chewy
+anxious,midnight,0.25879020931451685,-0.95,pretzels,savory_snacks,savory,crisp
+stressed,morning,0.6108922391693254,-0.48,ice cream,nigerian_sweet,sweet,soft
+anxious,midnight,0.22559948214797734,-0.56,popcorn,savory_snacks,savory,crisp
+anxious,evening,0.32156153969217566,-0.1,crackers,savory_snacks,savory,crisp
+anxious,morning,0.6075429639651893,-0.37,popcorn,savory_snacks,savory,crisp
+tired,afternoon,0.10174596290600874,-0.86,yogurt,healthy_light,light,soft
+anxious,morning,0.4273976885763065,-0.1,chips,savory_snacks,savory,crisp
+anxious,afternoon,0.40922895538783344,-0.1,boli,nigerian_savory,savory,soft
+tired,afternoon,0.6266693535396964,-0.3,pretzels,savory_snacks,savory,crisp
+happy,afternoon,0.015234727419433458,0.46,granola bar,healthy_light,light,crisp
+sad,morning,0.04903903555937888,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,afternoon,0.09947625395392859,0.2,puff puff,nigerian_fried,sweet,soft
+tired,evening,0.19101271520317864,-0.1,cheese,healthy_light,light,soft
+anxious,morning,0.3343993735362813,-0.1,popcorn,savory_snacks,savory,crisp
+nostalgic,morning,0.17940670652098537,0.2,veggies,healthy_light,light,crisp
+stressed,evening,0.2664061064417954,-0.25,candy,nigerian_sweet,sweet,chewy
+sad,morning,0.731325169322801,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+happy,morning,0.24877841710642665,0.2,akara,nigerian_fried,savory,soft
+hungry,midnight,1.0,-0.3,plantain chips,nigerian_savory,savory,crisp
+happy,morning,0.06007491664425118,0.89,akara,nigerian_fried,savory,soft
+content,midnight,0.29084652427863816,0.2,granola bar,healthy_light,light,crisp
+happy,afternoon,0.7891312147863112,0.46,ice cream,nigerian_sweet,sweet,soft
+stressed,midnight,0.6645516841584113,-0.71,crackers,savory_snacks,savory,crisp
+anxious,midnight,0.4216567508107667,-0.92,kokoro,savory_snacks,savory,crisp
+stressed,morning,0.0047425722695025214,-0.1,popcorn,savory_snacks,savory,crisp
+happy,morning,0.18193738297882345,0.2,puff puff,nigerian_fried,sweet,soft
+tired,midnight,0.05031409796198947,-0.1,granola bar,healthy_light,light,crisp
+hungry,morning,1.0,0.3,popcorn,savory_snacks,savory,crisp
+nostalgic,afternoon,0.6603023822951775,0.97,dodo ikire,nigerian_sweet,sweet,soft
+sad,evening,0.004259352456851407,-0.1,dodo ikire,nigerian_sweet,sweet,soft
+tired,morning,0.17140434747454752,-0.32,fruit,healthy_light,light,soft
+tired,evening,0.009315919602476975,-0.1,veggies,healthy_light,light,crisp
+anxious,afternoon,0.3404506925746813,-0.1,crackers,savory_snacks,savory,crisp
+sad,morning,0.34368219475883743,-0.1,cookies,nigerian_sweet,sweet,crisp
+tired,midnight,0.20992625805659604,-0.1,veggies,healthy_light,light,crisp
+tired,midnight,0.5572057467815114,-0.25,cheese,healthy_light,light,soft
+tired,morning,0.5138557207805955,-0.1,granola bar,healthy_light,light,crisp
+happy,morning,0.13229634041054875,0.96,akara,nigerian_fried,savory,soft
+nostalgic,evening,0.20063866808957018,0.38,candy,nigerian_sweet,sweet,chewy
+excited,morning,0.462583828935611,0.2,chin chin,nigerian_fried,sweet,crisp
+sad,morning,0.5275565269725105,-0.1,akara,nigerian_fried,savory,soft
+tired,afternoon,0.031098957613351443,-0.1,kokoro,savory_snacks,savory,crisp
+excited,midnight,0.08101214478992774,0.75,akara,nigerian_fried,savory,soft
+sad,midnight,0.34044470215737405,-0.3,chocolate,nigerian_sweet,sweet,soft
+content,midnight,0.41645643543933875,0.2,granola bar,healthy_light,light,crisp
+tired,morning,0.11622880779662932,-0.37,yogurt,healthy_light,light,soft
+excited,evening,0.391862448437378,0.2,akara,nigerian_fried,savory,soft
+nostalgic,midnight,0.4377021140551205,0.2,candy,nigerian_sweet,sweet,chewy
+hungry,afternoon,1.0,0.3,plantain chips,nigerian_savory,savory,crisp
+tired,evening,0.6821329224813766,-0.1,veggies,healthy_light,light,crisp
+excited,afternoon,0.22089490595476652,0.86,akara,nigerian_fried,savory,soft
+bored,morning,0.33829472724726967,0.03,kokoro,savory_snacks,savory,crisp
+content,evening,0.036092702881167595,0.87,granola bar,healthy_light,light,crisp
+content,evening,0.6039521601266632,0.2,puff puff,nigerian_fried,sweet,soft
+hungry,midnight,1.0,-0.3,suya,nigerian_savory,spicy,chewy
+happy,afternoon,0.56173146291865,0.2,dodo ikire,nigerian_sweet,sweet,soft
+happy,evening,0.41573431717274395,0.54,chin chin,nigerian_fried,sweet,crisp
+happy,evening,0.10833507985426244,0.2,akara,nigerian_fried,savory,soft
+stressed,morning,0.2124875661331319,-0.1,popcorn,savory_snacks,savory,crisp
+happy,evening,0.38052402473993374,0.21,cheese,healthy_light,light,soft
+nostalgic,afternoon,0.3181831804981779,0.2,ice cream,nigerian_sweet,sweet,soft
+nostalgic,evening,0.33262884965534645,0.2,ice cream,nigerian_sweet,sweet,soft
+stressed,morning,0.5516864152003264,-0.1,candy,nigerian_sweet,sweet,chewy
+content,evening,0.2583208548623208,0.2,veggies,healthy_light,light,crisp
+stressed,morning,0.025089255043670725,-0.66,chocolate,nigerian_sweet,sweet,soft
+excited,morning,0.32735731502851984,0.2,puff puff,nigerian_fried,sweet,soft
+happy,morning,0.51268330913248,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,midnight,0.32143493626669106,0.3,kokoro,savory_snacks,savory,crisp
+sad,midnight,0.397239850881465,-0.45,chocolate,nigerian_sweet,sweet,soft
+happy,midnight,0.21672737859749694,0.71,chin chin,nigerian_fried,sweet,crisp
+bored,evening,0.4368399455062128,0.18,fruit,healthy_light,light,soft
+happy,morning,0.3263079414802872,0.2,akara,nigerian_fried,savory,soft
+anxious,evening,0.18150873184235589,-0.38,cheese,healthy_light,light,soft
+excited,evening,0.7470870366285915,0.62,suya,nigerian_savory,spicy,chewy
+anxious,midnight,0.12243407773105704,-0.1,kokoro,savory_snacks,savory,crisp
+happy,midnight,0.38107063479549297,0.87,puff puff,nigerian_fried,sweet,soft
+anxious,evening,0.3003018831194559,-0.52,kokoro,savory_snacks,savory,crisp
+happy,evening,0.01876721737692355,0.2,akara,nigerian_fried,savory,soft
+content,morning,0.5076279466928861,0.2,yogurt,healthy_light,light,soft
+content,evening,0.7418931275692429,0.2,yogurt,healthy_light,light,soft
+anxious,afternoon,0.07882981373419257,-0.1,chips,savory_snacks,savory,crisp
+content,midnight,0.01510470286098773,0.2,granola bar,healthy_light,light,crisp
+bored,morning,0.6728359860100483,0.03,kuli kuli,nigerian_savory,spicy,crisp
+sad,morning,0.36021215479731056,-0.6,coconut candy,nigerian_sweet,sweet,chewy
+tired,evening,0.7013473707685187,-0.57,granola bar,healthy_light,light,crisp
+sad,evening,0.6198867217455648,-0.74,candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.14293024427128237,-0.1,pretzels,savory_snacks,savory,crisp
+hungry,afternoon,1.0,-0.3,boli,nigerian_savory,savory,soft
+anxious,evening,0.061288611408890595,-0.1,granola bar,healthy_light,light,crisp
+bored,midnight,0.0638312989072003,-0.16,granola bar,healthy_light,light,crisp
+happy,afternoon,0.6727390750187681,0.29,puff puff,nigerian_fried,sweet,soft
+tired,afternoon,0.4096187112870075,-0.1,veggies,healthy_light,light,crisp
+nostalgic,morning,0.5039364032490077,0.2,coconut candy,nigerian_sweet,sweet,chewy
+happy,morning,0.39604475652366794,0.69,akara,nigerian_fried,savory,soft
+happy,afternoon,0.39482466418609674,0.76,chin chin,nigerian_fried,sweet,crisp
+bored,midnight,0.5666592392623763,-0.26,chips,savory_snacks,savory,crisp
+content,morning,0.7580270805867562,0.2,candy,nigerian_sweet,sweet,chewy
+excited,morning,0.34298011340118517,0.2,cookies,nigerian_sweet,sweet,crisp
+stressed,afternoon,0.7236842024902955,-0.32,ice cream,nigerian_sweet,sweet,soft
+excited,midnight,0.30919497829113096,0.2,akara,nigerian_fried,savory,soft
+bored,afternoon,0.2750828604340635,0.3,pretzels,savory_snacks,savory,crisp
+sad,midnight,0.7987369871390193,-0.1,granola bar,healthy_light,light,crisp
+nostalgic,midnight,0.44864987342201373,0.2,dodo ikire,nigerian_sweet,sweet,soft
+anxious,morning,0.668388924514637,-0.67,crackers,savory_snacks,savory,crisp
+excited,evening,0.43734359991102956,0.42,chin chin,nigerian_fried,sweet,crisp
+content,afternoon,0.644464661152987,0.58,granola bar,healthy_light,light,crisp
+stressed,evening,0.06388513966580521,-0.1,candy,nigerian_sweet,sweet,chewy
+anxious,evening,0.7010511759324071,-0.4,kuli kuli,nigerian_savory,spicy,crisp
+tired,morning,0.49171289524360157,-0.91,cheese,healthy_light,light,soft
+anxious,afternoon,0.43931521219316094,-0.1,yogurt,healthy_light,light,soft
+anxious,afternoon,0.22909285430972687,-0.1,chips,savory_snacks,savory,crisp
+excited,evening,0.549541933419442,0.2,chin chin,nigerian_fried,sweet,crisp
+stressed,afternoon,0.07680555720492217,-0.41,boli,nigerian_savory,savory,soft
+happy,afternoon,0.536779767588628,0.51,puff puff,nigerian_fried,sweet,soft
+happy,evening,0.6161050335431355,0.2,coconut candy,nigerian_sweet,sweet,chewy
+stressed,afternoon,0.46639878377465255,-0.2,kokoro,savory_snacks,savory,crisp
+bored,midnight,0.4469655956768772,-0.3,kokoro,savory_snacks,savory,crisp
+sad,morning,0.2325143754452249,-0.41,cookies,nigerian_sweet,sweet,crisp
+stressed,afternoon,0.11893805095694568,-0.1,cookies,nigerian_sweet,sweet,crisp
+happy,afternoon,0.3807250619785606,0.2,granola bar,healthy_light,light,crisp
+bored,midnight,0.6341419902357015,0.3,pretzels,savory_snacks,savory,crisp
+sad,morning,0.20500393911125805,-0.24,granola bar,healthy_light,light,crisp
+bored,afternoon,0.5294325710516168,-0.1,pretzels,savory_snacks,savory,crisp
+bored,afternoon,0.7406308395956547,0.3,popcorn,savory_snacks,savory,crisp
+excited,midnight,0.09679981400965315,0.2,puff puff,nigerian_fried,sweet,soft
+tired,evening,0.7042014186253498,-0.44,coconut candy,nigerian_sweet,sweet,chewy
+bored,afternoon,0.006227176215173724,0.3,suya,nigerian_savory,spicy,chewy
+happy,midnight,0.07978096308269436,0.2,chin chin,nigerian_fried,sweet,crisp
+bored,afternoon,0.665592042488278,0.14,popcorn,savory_snacks,savory,crisp
+happy,afternoon,0.1717881000972506,0.2,candy,nigerian_sweet,sweet,chewy
+nostalgic,morning,0.760055324218725,0.2,chin chin,nigerian_fried,sweet,crisp
+tired,midnight,0.4356250343236065,-0.1,cookies,nigerian_sweet,sweet,crisp
+tired,evening,0.1943747667636565,-0.1,popcorn,savory_snacks,savory,crisp
+bored,morning,0.4883150933152429,0.3,chips,savory_snacks,savory,crisp
+excited,midnight,0.7831437176135924,0.2,akara,nigerian_fried,savory,soft
+hungry,midnight,1.0,-0.27,popcorn,savory_snacks,savory,crisp
+sad,morning,0.5365624593167151,-0.1,chin chin,nigerian_fried,sweet,crisp
+stressed,evening,0.2783749329241732,-0.1,coconut candy,nigerian_sweet,sweet,chewy
+happy,afternoon,0.3607258705511634,0.65,akara,nigerian_fried,savory,soft
+bored,afternoon,0.5099990423473305,0.29,chips,savory_snacks,savory,crisp
+excited,morning,0.6290343140770224,0.76,boli,nigerian_savory,savory,soft
+stressed,afternoon,0.3033286911839548,-0.32,ice cream,nigerian_sweet,sweet,soft
+excited,evening,0.24910035373065692,0.74,chin chin,nigerian_fried,sweet,crisp
+anxious,afternoon,0.26979020066867365,-0.1,chips,savory_snacks,savory,crisp
+stressed,morning,0.3243231686807393,-0.33,kuli kuli,nigerian_savory,spicy,crisp
+sad,midnight,0.14452392167293623,-0.19,cookies,nigerian_sweet,sweet,crisp
+excited,midnight,0.17972856008405716,0.45,suya,nigerian_savory,spicy,chewy
+nostalgic,morning,0.27449241313360756,0.2,coconut candy,nigerian_sweet,sweet,chewy
+content,morning,0.1822745504612005,0.2,cheese,healthy_light,light,soft
+happy,midnight,0.16429454775198826,0.47,dodo ikire,nigerian_sweet,sweet,soft
+nostalgic,evening,0.7775396405618682,0.7,dodo ikire,nigerian_sweet,sweet,soft
+stressed,midnight,0.15236559762403676,-0.12,kuli kuli,nigerian_savory,spicy,crisp
+anxious,evening,0.45011279779847957,-0.1,popcorn,savory_snacks,savory,crisp
+hungry,midnight,1.0,-0.3,suya,nigerian_savory,spicy,chewy
+anxious,evening,0.22044533609698302,-0.1,granola bar,healthy_light,light,crisp
+content,evening,0.38687443848346326,0.2,fruit,healthy_light,light,soft
+sad,morning,0.33307959903714535,-0.1,yogurt,healthy_light,light,soft
+excited,morning,0.12951648804188673,0.2,puff puff,nigerian_fried,sweet,soft
+tired,afternoon,0.7216977905963101,-0.1,yogurt,healthy_light,light,soft
+sad,midnight,0.2100401840160002,-0.92,cookies,nigerian_sweet,sweet,crisp
+happy,evening,0.463133226074174,0.2,puff puff,nigerian_fried,sweet,soft
+anxious,evening,0.127930596019302,-0.2,kokoro,savory_snacks,savory,crisp
+happy,evening,0.381191517883061,0.2,coconut candy,nigerian_sweet,sweet,chewy
+nostalgic,midnight,0.44315338708371005,0.2,dodo ikire,nigerian_sweet,sweet,soft
+sad,afternoon,0.21983221153743981,-0.78,dodo ikire,nigerian_sweet,sweet,soft
+content,afternoon,0.441614537836521,0.2,veggies,healthy_light,light,crisp
+content,morning,0.15974834093454338,0.2,cheese,healthy_light,light,soft
+excited,midnight,0.002105724463670544,0.2,puff puff,nigerian_fried,sweet,soft
+stressed,morning,0.5181360021695806,-0.16,chocolate,nigerian_sweet,sweet,soft
+happy,evening,0.21748858138073263,0.2,cookies,nigerian_sweet,sweet,crisp
+excited,afternoon,0.6232540114875758,0.2,puff puff,nigerian_fried,sweet,soft
+tired,afternoon,0.1489320285968562,-0.75,cookies,nigerian_sweet,sweet,crisp
+excited,afternoon,0.6709636196270877,0.2,boli,nigerian_savory,savory,soft
+tired,evening,0.5102577434075282,-0.98,ice cream,nigerian_sweet,sweet,soft
+anxious,midnight,0.527503142881172,-0.3,crackers,savory_snacks,savory,crisp
+nostalgic,midnight,0.2761438706365044,0.2,cookies,nigerian_sweet,sweet,crisp
+stressed,midnight,0.19800490285584324,-0.84,boli,nigerian_savory,savory,soft
+nostalgic,evening,0.1175172551022234,0.94,cheese,healthy_light,light,soft
+stressed,evening,0.03576554513508956,-0.1,chocolate,nigerian_sweet,sweet,soft
+content,afternoon,0.14050117245440186,0.2,veggies,healthy_light,light,crisp
+excited,evening,0.027904244656022127,0.2,akara,nigerian_fried,savory,soft
+happy,midnight,0.7503095808759068,0.2,coconut candy,nigerian_sweet,sweet,chewy
+stressed,midnight,0.0009051800966961565,-0.84,candy,nigerian_sweet,sweet,chewy
+happy,morning,0.4112246555806956,0.2,granola bar,healthy_light,light,crisp
+sad,midnight,0.189540736585158,-0.1,veggies,healthy_light,light,crisp
+bored,morning,0.6317388910342046,0.3,kokoro,savory_snacks,savory,crisp
+excited,midnight,0.5291056622759912,0.2,chin chin,nigerian_fried,sweet,crisp
+nostalgic,evening,0.4768241287598409,0.2,chocolate,nigerian_sweet,sweet,soft
